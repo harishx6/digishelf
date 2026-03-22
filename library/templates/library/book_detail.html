@@ -1,0 +1,171 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}{{ book.title }} | Details{% endblock %}
+
+{% block content %}
+<div class="container mt-5 mb-5 animate-slide-up">
+    <a href="{% url 'home' %}" class="btn btn-outline-secondary rounded-pill mb-4 shadow-sm">
+        <i class="fas fa-arrow-left me-2"></i>Back to Catalog
+    </a>
+    
+    <div class="row">
+        <!-- Book Details Section -->
+        <div class="col-lg-4 mb-4">
+            <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+                <div style="background: var(--primary-gradient); padding: 40px; text-align: center; color: white;">
+                    <i class="fas fa-book fa-6x" style="opacity: 0.2;"></i>
+                </div>
+
+                <div class="card-body p-4">
+                    <h3 class="fw-bold mb-1 text-dark">{{ book.title }}</h3>
+                    <p class="text-muted mb-3 small">by <span class="fw-bold text-dark">{{ book.author }}</span></p>
+                    
+                    <div class="d-flex align-items-center gap-2 mb-3">
+                        <span class="badge bg-light text-primary border px-3 py-2 rounded-pill">{{ book.category }}</span>
+                        <span class="badge bg-light text-warning border px-3 py-2 rounded-pill">
+                            <i class="fas fa-star me-1"></i> {{ book.avg_rating }}
+                        </span>
+                    </div>
+
+                    <div class="mt-4 p-3 bg-light rounded-4 border shadow-sm text-start" style="font-size: 0.9rem;">
+                        <div class="mb-2"><strong>Publisher:</strong> <span class="text-muted">{{ book.publisher|default:"Not Available" }}</span></div>
+                        <div class="mb-2"><strong>Price:</strong> <span class="text-muted">{% if book.price %}₹{{ book.price }}{% else %}N/A{% endif %}</span></div>
+                        <div class="mb-0"><strong>Year:</strong> <span class="text-muted">{{ book.year_of_publication|default:"N/A" }}</span></div>
+                    </div>
+                    
+                    <hr class="my-4 opacity-25">
+                    
+                    <div class="mb-4 text-center">
+                        {% if book.stock_count > 0 %}
+                            <div class="p-3 rounded-4" style="background: rgba(40, 167, 69, 0.08); border: 1px dashed #28a745;">
+                                <span class="fw-bold text-success">
+                                    <i class="fas fa-check-circle me-2"></i> {{ book.stock_count }} Copies Available on Shelf
+                                </span>
+                            </div>
+                        {% else %}
+                            <div class="p-3 rounded-4" style="background: rgba(220, 53, 69, 0.08); border: 1px dashed #dc3545;">
+                                <span class="fw-bold text-danger">
+                                    <i class="fas fa-hourglass-half me-2"></i> Out of Stock (Available for Reservation)
+                                </span>
+                            </div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="action-section">
+                        {% if book.stock_count > 0 %}
+                            {% if user.is_authenticated %}
+                                <button class="btn btn-aesthetic w-100 rounded-pill py-3 shadow fw-bold" 
+                                        data-url="{% url 'issue_book' book.id %}" 
+                                        onclick="confirmBooking(this.getAttribute('data-url'))">
+                                    <i class="fas fa-paper-plane me-2"></i>Request This Book
+                                </button>
+                            {% else %}
+                                <a href="{% url 'login' %}?next={{ request.path }}" 
+                                   class="btn btn-outline-primary w-100 rounded-pill py-3 shadow fw-bold">
+                                    <i class="fas fa-sign-in-alt me-2"></i>Login to Request
+                                </a>
+                            {% endif %}
+                        {% else %}
+                            {% if user.is_authenticated %}
+                                <button class="btn btn-warning w-100 rounded-pill py-3 shadow fw-bold text-dark" 
+                                        data-url="{% url 'reserve_book' book.id %}" 
+                                        onclick="confirmReservation(this.getAttribute('data-url'))">
+                                    <i class="fas fa-clock me-2"></i>Reserve Now
+                                </button>
+                            {% else %}
+                                <a href="{% url 'login' %}?next={{ request.path }}" 
+                                   class="btn btn-outline-warning w-100 rounded-pill py-3 shadow fw-bold">
+                                    <i class="fas fa-sign-in-alt me-2"></i>Login to Reserve
+                                </a>
+                            {% endif %}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reader Reviews Section -->
+        <div class="col-lg-8">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h3 class="fw-bold m-0"><i class="fas fa-comments me-2 text-primary-gradient"></i>Reader Reviews</h3>
+                <span class="badge bg-primary px-3 py-2 rounded-pill" style="background: var(--primary-gradient) !important;">
+                    {{ reviews.count }} Reviews
+                </span>
+            </div>
+
+            <div class="review-list">
+                {% for review in reviews %}
+                <div class="card glass-card mb-3 rounded-4">
+                    <div class="card-body p-4">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <div class="d-flex align-items-center">
+                                <div class="bg-light text-primary rounded-circle d-flex align-items-center justify-content-center me-3 fw-bold shadow-sm" 
+                                     style="width: 45px; height: 45px; font-size: 1.2rem; color: #764ba2 !important;">
+                                    {{ review.member.name|first|upper }}
+                                </div>
+                                <div>
+                                    <h6 class="fw-bold m-0">{{ review.member.name }}</h6>
+                                    <small class="text-muted" style="font-size: 0.8rem;">{{ review.created_at|date:"d M, Y" }}</small>
+                                </div>
+                            </div>
+                            
+                            <div class="d-flex align-items-center">
+                                <span class="text-warning fw-bold bg-light px-3 py-1 rounded-pill me-3 shadow-sm border small">
+                                    <i class="fas fa-star"></i> {{ review.rating }}
+                                </span>
+                                
+                                {% if request.user.email == review.member.email %}
+                                    <a href="{% url 'edit_review' review.id %}" class="btn btn-sm btn-outline-secondary rounded-circle me-2" title="Edit">
+                                        <i class="fas fa-edit"></i>
+                                    </a>
+                                    <a href="{% url 'delete_review' review.id %}" class="btn btn-sm btn-outline-danger rounded-circle" title="Delete" 
+                                       onclick="return confirm('Are you sure you want to delete it?');">
+                                        <i class="fas fa-trash-alt"></i>
+                                    </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                        <p class="text-muted m-0 ps-5 ms-3 fst-italic">"{{ review.comment }}"</p>
+                    </div>
+                </div>
+                {% empty %}
+                <div class="text-center py-5 text-muted glass-card">
+                    <i class="far fa-comment-dots fa-3x mb-3 opacity-25"></i>
+                    <h5>No reviews yet!</h5>
+                    <p class="small">Be the first to borrow and review this book.</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function confirmBooking(url) {
+        Swal.fire({
+            title: 'Success!',
+            text: 'Book requested successfully!',
+            icon: 'success',
+            showConfirmButton: false,
+            timer: 1500
+        }).then(() => {
+            window.location.href = url;
+        });
+    }
+
+    function confirmReservation(url) {
+        Swal.fire({
+            title: 'Reserved!',
+            text: 'You are on the waiting list!',
+            icon: 'warning',
+            showConfirmButton: false,
+            timer: 2000
+        }).then(() => {
+            window.location.href = url;
+        });
+    }
+</script>
+{% endblock %}

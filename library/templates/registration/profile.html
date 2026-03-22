@@ -1,0 +1,207 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}My Dashboard | DigiShelf Pro{% endblock %}
+
+{% block content %}
+<div class="container pb-5 mt-5 animate-slide-up">
+    <!-- Back Button -->
+    <div class="mb-4">
+        <a href="javascript:history.back()" class="btn btn-outline-secondary rounded-pill px-4 shadow-sm fw-bold">
+            <i class="fas fa-arrow-left me-2"></i> Back
+        </a>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="card glass-card p-4 mb-4 text-center">
+                <div class="position-relative d-inline-block mx-auto mb-3">
+                    <div class="rounded-circle d-flex align-items-center justify-content-center shadow-lg text-white font-weight-bold" 
+                         style="width: 100px; height: 100px; font-size: 2.5rem; background: var(--primary-gradient);">
+                        {{ member.name|first|upper }} 
+                    </div>
+                    <span class="position-absolute bottom-0 end-0 bg-success border border-white border-3 rounded-circle" style="width: 20px; height: 20px;"></span>
+                </div>
+                <h3 class="fw-bold mb-1">{{ member.name }}</h3>
+                <p class="text-muted small mb-4"><i class="fas fa-envelope me-2"></i>{{ member.email }}</p>
+                
+                <div class="row g-3 mb-4">
+                    <div class="col-6">
+                        <div class="p-3 border rounded-4 bg-white" data-bs-theme="light">
+                            <h4 class="fw-bold m-0 text-primary">{{ active_books.count }}</h4>
+                            <small class="text-muted fw-bold">Borrowed</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 border rounded-4 bg-white" data-bs-theme="light">
+                            <h4 class="fw-bold m-0 text-danger">₹{{ total_fine }}</h4>
+                            <small class="text-muted fw-bold">Fine Due</small>
+                            
+                            {% if total_fine > 0 %}
+                                <a href="{% url 'pay_fine' %}" class="btn btn-sm btn-success mt-2 rounded-pill px-3 shadow-sm w-100 fw-bold">
+                                    <i class="fas fa-wallet me-1"></i> Pay Now
+                                </a>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-grid mb-4">
+                    <a href="{% url 'edit_profile' %}" class="btn btn-aesthetic w-100 shadow-sm">
+                        <i class="fas fa-user-edit me-2"></i>Edit Profile
+                    </a>
+                </div>
+
+                <div class="mt-4 text-start">
+                    <hr class="opacity-25 mb-4">
+                    <h6 class="fw-bold mb-3 text-primary-gradient"><i class="fas fa-address-card me-2"></i>Personal Info</h6>
+                    <div class="p-3 bg-white rounded-4 shadow-sm border small text-muted" data-bs-theme="light">
+                        <div class="mb-3 d-flex align-items-center">
+                            <i class="fas fa-phone-alt text-secondary me-3" style="width: 15px;"></i>
+                            <span class="fw-bold text-dark me-2">Phone:</span>
+                            <span class="text-dark">{{ member.phone_number|default:"Not Updated" }}</span>
+                        </div>
+                        
+                        <div class="mb-3 d-flex align-items-center">
+                            <i class="fas fa-heart text-danger me-3" style="width: 15px;"></i>
+                            <span class="fw-bold text-dark me-2">Interest:</span>
+                            <span class="badge text-primary rounded-pill border border-primary" style="background: rgba(102, 126, 234, 0.1);">
+                                {{ member.get_favorite_genre_display|default:"General" }}
+                            </span>
+                        </div>
+
+                        <div class="d-flex align-items-start">
+                            <i class="fas fa-map-marker-alt text-secondary me-3 mt-1" style="width: 15px;"></i>
+                            <div>
+                                <span class="fw-bold text-dark d-block">Address:</span>
+                                <span class="text-dark">{{ member.address|default:"Not Updated" }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-8">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h4 class="fw-bold m-0"><i class="fas fa-book-open me-2 text-primary-gradient"></i>Currently Borrowed</h4>
+            </div>
+
+            <div class="glass-card shadow-sm p-3 mb-5 overflow-auto">
+                <table class="table table-hover align-middle mb-0">
+                    <thead class="table-light">
+                        <tr class="text-muted small text-uppercase">
+                            <th class="ps-4 border-0">Book Details</th>
+                            <th class="border-0">Due Date</th>
+                            <th class="border-0">Status</th>
+                            <th class="border-0 text-center">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for record in active_books %}
+                        <tr>
+                            <td class="ps-4 py-3">
+                                <div class="d-flex align-items-center">
+                                    <div class="me-3 rounded-circle d-flex justify-content-center align-items-center fw-bold fs-5 user-badge-avatar {% if record.is_overdue %}overdue{% else %}active{% endif %}">
+                                        <i class="fas fa-book"></i>
+                                    </div>
+                                    <div>
+                                        <div class="fw-bold">{{ record.book.title }}</div>
+                                        <small class="text-muted">ID: #{{ record.id }}</small>
+                                    </div>
+                                </div>
+                            </td>
+                            <td><span class="fw-bold">{{ record.due_date|date:"d M, Y" }}</span></td>
+                            <td>
+                                {% if record.is_overdue %}
+                                    <span class="badge px-3 py-2 rounded-pill small" style="background: rgba(255, 107, 107, 0.1); color: #ff6b6b; border: 1px solid #ff6b6b;">
+                                        <i class="fas fa-exclamation-circle me-1"></i> Overdue!
+                                    </span>
+                                {% else %}
+                                    <span class="badge px-3 py-2 rounded-pill small" style="background: rgba(107, 203, 119, 0.1); color: #6bcb77; border: 1px solid #6bcb77;">
+                                        <i class="fas fa-check-circle me-1"></i> Active
+                                    </span>
+                                {% endif %}
+                            </td>
+                            <td class="text-center">
+                                <a href="{% url 'return_book' record.id %}" class="btn btn-sm btn-outline-danger rounded-pill px-4 shadow-sm fw-bold">
+                                    <i class="fas fa-undo-alt me-1"></i> Return
+                                </a>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="4" class="text-center py-5 text-muted">No active borrowings found.</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h4 class="fw-bold m-0"><i class="fas fa-clock me-2 text-warning"></i>My Reservations</h4>
+            </div>
+
+            <div class="glass-card shadow-sm p-3 mb-5 overflow-auto">
+                <table class="table table-hover align-middle mb-0">
+                    <thead class="table-light text-muted small text-uppercase">
+                        <tr>
+                            <th class="ps-4 border-0">Book</th>
+                            <th class="border-0">Reserved On</th>
+                            <th class="border-0">Queue Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for record in reserved_books %}
+                        <tr>
+                            <td class="ps-4 py-3">
+                                <div class="fw-bold">{{ record.book.title }}</div>
+                                <small class="text-muted">by {{ record.book.author }}</small>
+                            </td>
+                            <td>{{ record.issue_date|date:"d M, Y" }}</td>
+                            <td>
+                                <span class="badge px-3 py-2 rounded-pill border border-warning" style="background: rgba(255, 193, 7, 0.1); color: #ffc107;">
+                                    <i class="fas fa-list-ol me-1"></i> Waitlist #{{ record.waitlist_position|default:"0" }}
+                                </span>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="3" class="text-center py-4 text-muted">No reservations yet.</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h4 class="fw-bold m-0 text-muted"><i class="fas fa-history me-2"></i>Reading History</h4>
+            </div>
+
+            <div class="glass-card shadow-sm p-3 overflow-auto">
+                <table class="table table-hover align-middle mb-0 text-muted">
+                    <thead class="table-light small text-uppercase">
+                        <tr>
+                            <th class="ps-4 border-0">Book Details</th>
+                            <th class="border-0">Returned On</th>
+                            <th class="border-0 text-center">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for record in history_books %}
+                        <tr>
+                            <td class="ps-4 py-3">
+                                <div class="fw-bold text-dark" data-bs-theme="light">{{ record.book.title }}</div>
+                                <small>by {{ record.book.author }}</small>
+                            </td>
+                            <td class="text-success fw-bold">{{ record.returned_date|date:"d M, Y" }}</td>
+                            <td class="text-center">
+                                <span class="badge rounded-pill border" style="background: rgba(108, 117, 125, 0.1); color: #6c757d; border-color: #6c757d !important;">Returned</span>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="3" class="text-center py-4">No history yet.</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

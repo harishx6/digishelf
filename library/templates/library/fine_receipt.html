@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Payment Receipt | DigiShelf{% endblock %}
+
+{% block extra_head %}
+<style>
+    .receipt-card { 
+        background: var(--glass-bg); 
+        border-radius: 15px; 
+        border-top: 8px solid #6bcb77; 
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1); 
+        padding: 40px; 
+        margin-bottom: 30px; 
+    }
+    .receipt-header { border-bottom: 2px dashed #ccc; padding-bottom: 20px; margin-bottom: 20px; }
+    .success-icon { 
+        width: 70px; height: 70px; 
+        background: rgba(107, 203, 119, 0.1); color: #6bcb77; border-radius: 50%; 
+        display: flex; align-items: center; justify-content: center; font-size: 2rem; margin: 0 auto 20px; 
+    }
+    .watermark { 
+        position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-30deg); 
+        font-size: 6rem; opacity: 0.05; font-weight: 800; color: #000; pointer-events: none; 
+    }
+    @media print {
+        body { background: white !important; }
+        .navbar-premium, footer, .no-print { display: none !important; }
+        .receipt-card { box-shadow: none !important; border: 1px solid #ddd; border-top: 8px solid #6bcb77; }
+        .glass-card { background: white !important; backdrop-filter: none !important; }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container pt-5 pb-5 animate-slide-up">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-8 col-lg-6">
+            <div class="receipt-card glass-card position-relative overflow-hidden mx-auto">
+            <div class="watermark" data-bs-theme="light">PAID</div>
+            
+            <div class="text-center receipt-header">
+                <div class="success-icon">
+                    <i class="fas fa-check"></i>
+                </div>
+                <h3 class="fw-bold text-success mb-1">Payment Successful!</h3>
+                <p class="text-muted small">Thank you for clearing your dues, {{ member.name }}.</p>
+            </div>
+
+            <div class="row mb-4 small">
+                <div class="col-6">
+                    <p class="mb-1 text-muted">Transaction ID:</p>
+                    <p class="fw-bold">{{ transaction_id }}</p>
+                </div>
+                <div class="col-6 text-end">
+                    <p class="mb-1 text-muted">Date & Time:</p>
+                    <p class="fw-bold">{{ date|date:"M d, Y h:i A" }}</p>
+                </div>
+            </div>
+
+            <div class="bg-light rounded-3 p-3 mb-4 border" data-bs-theme="light">
+                <h6 class="fw-bold border-bottom pb-2 mb-3 text-dark">Fine Details</h6>
+                {% for record in paid_for_books %}
+                <div class="d-flex justify-content-between mb-2 small text-dark">
+                    <span class="text-muted">{{ record.book.title }} (Late return)</span>
+                    <span class="fw-bold">Included</span>
+                </div>
+                {% endfor %}
+                <hr>
+                <div class="d-flex justify-content-between align-items-center">
+                    <h5 class="fw-bold m-0 text-dark">Total Paid</h5>
+                    <h4 class="fw-bold text-success m-0">₹{{ amount_paid }}</h4>
+                </div>
+            </div>
+
+            <p class="text-center text-muted small mb-0 fw-bold opacity-50">
+                <i class="fas fa-shield-alt me-1"></i> Secured by DigiShelf System
+            </p>
+        </div>
+
+        <div class="d-flex justify-content-center gap-3 no-print mb-5">
+            <button onclick="window.print()" class="btn btn-aesthetic-light rounded-pill px-4 fw-bold shadow-sm">
+                <i class="fas fa-print me-2"></i>Print Receipt
+            </button>
+            <a href="{% url 'profile' %}" class="btn btn-aesthetic rounded-pill px-4 fw-bold shadow-sm">
+                <i class="fas fa-home me-2"></i>Back to Dashboard
+            </a>
+        </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

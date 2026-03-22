@@ -1,0 +1,124 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Lost & Found | DigiShelf{% endblock %}
+
+{% block extra_head %}
+<style>
+    .badge-lost { background: rgba(255, 107, 107, 0.1); color: #ff6b6b; border: 1px solid #ff6b6b; }
+    .badge-found { background: rgba(40, 167, 69, 0.1); color: #28a745; border: 1px solid #28a745; }
+    .badge-claimed { background: rgba(108, 117, 125, 0.1); color: #6c757d; border: 1px solid #6c757d; }
+    
+    .claimed-card { opacity: 0.6; filter: grayscale(40%); }
+    .seal-stamp {
+        position: absolute; top: 50%; left: 50%;
+        transform: translate(-50%, -50%) rotate(-15deg);
+        font-size: 2.5rem; font-weight: 900;
+        color: rgba(40, 167, 69, 0.5); border: 5px solid rgba(40, 167, 69, 0.5); 
+        padding: 10px 20px; border-radius: 10px; letter-spacing: 5px;
+        text-transform: uppercase; z-index: 10; pointer-events: none; 
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container py-5 animate-slide-up">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold"><i class="fas fa-search me-2 text-primary-gradient"></i>Lost & Found</h2>
+        <a href="{% url 'home' %}" class="btn btn-outline-secondary rounded-pill shadow-sm"><i class="fas fa-home me-2"></i>Back to Home</a>
+    </div>
+
+    <div class="row">
+        <!-- Report Form -->
+        <div class="col-lg-4 mb-4">
+            <div class="card glass-card p-4 shadow-sm border-0 sticky-top" style="top: 100px;">
+                <h5 class="fw-bold mb-3"><i class="fas fa-bullhorn me-2 text-warning"></i>Report an Item</h5>
+                <form method="post">
+                    {% csrf_token %}
+                    {% for field in form %}
+                        <div class="mb-3 text-start">
+                            <label class="small fw-bold text-muted mb-1">{{ field.label }}</label>
+                            {% if field.name == 'description' %}
+                                {{ field }}
+                            {% else %}
+                                {{ field }}
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                    
+                    <div class="d-flex gap-2 mt-4">
+                        <button type="submit" name="action" value="lost" class="btn btn-danger w-50 rounded-pill fw-bold shadow-sm">
+                            <i class="fas fa-search-minus me-1"></i> I Lost It
+                        </button>
+                        <button type="submit" name="action" value="found" class="btn btn-success w-50 rounded-pill fw-bold shadow-sm">
+                            <i class="fas fa-hand-holding-heart me-1"></i> I Found It
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Items Listing -->
+        <div class="col-lg-8">
+            <div class="row">
+                {% for item in items %}
+                <div class="col-md-6 mb-4">
+                    <div class="card glass-card p-4 h-100 border-start border-4 position-relative shadow-sm
+                        {% if item.status == 'lost' %}border-danger
+                        {% elif item.status == 'found' or item.status == 'recovered' %}border-success
+                        {% else %}border-secondary claimed-card{% endif %}">
+                        
+                        {% if item.status == 'claimed' %}
+                        <div class="seal-stamp">CLAIMED</div>
+                        {% endif %}
+
+                        <div class="d-flex justify-content-between align-items-start mb-3">
+                            <h6 class="fw-bold m-0 fs-5 text-dark" data-bs-theme="light">{{ item.item_name }}</h6>
+                            <span class="badge rounded-pill px-3 py-1 
+                                {% if item.status == 'lost' %}badge-lost
+                                {% elif item.status == 'found' or item.status == 'recovered' %}badge-found
+                                {% else %}badge-claimed{% endif %}">
+                                <i class="fas {% if item.status == 'lost' %}fa-question-circle{% elif item.status == 'found' or item.status == 'recovered' %}fa-check-circle{% else %}fa-handshake{% endif %} me-1"></i>
+                                {{ item.get_status_display }}
+                            </span>
+                        </div>
+                        <p class="text-muted small mb-3 flex-grow-1">{{ item.description }}</p>
+                        
+                        {% if item.status == 'found' or item.status == 'recovered' %}
+                            {% if item.storage_location %}
+                            <div class="bg-light p-2 rounded-3 mb-3 small border" data-bs-theme="light">
+                                <i class="fas fa-map-pin text-success me-1"></i> <strong>Location:</strong> <span class="text-dark">{{ item.storage_location }}</span>
+                            </div>
+                            {% endif %}
+                        {% endif %}
+                        
+                        <div class="mt-auto pt-3 border-top small text-muted d-flex justify-content-between">
+                            <span class="fw-bold"><i class="fas fa-user me-1 text-primary"></i> {{ item.reported_by.username }}</span>
+                            <span><i class="fas fa-clock me-1 text-secondary"></i> {{ item.date_reported|date:"d M, Y" }}</span>
+                        </div>
+                    </div>
+                </div>
+                {% empty %}
+                <div class="col-12 py-5 text-center text-muted glass-card">
+                    <i class="far fa-folder-open fa-4x mb-3 opacity-25"></i>
+                    <h5 class="fw-bold">No items completely reported!</h5>
+                    <p class="small">The library is completely safe right now.</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    // Style the django forms
+    document.addEventListener("DOMContentLoaded", function() {
+        var inputs = document.querySelectorAll('form input, form textarea');
+        inputs.forEach(i => {
+            i.classList.add('form-control');
+        });
+    });
+</script>
+{% endblock %}

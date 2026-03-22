@@ -1,0 +1,8 @@
+{% extends "admin/index.html" %}
+{% load admin_dashboard_tags %}
+
+{% block content %}
+    {% show_dashboard_stats %}
+
+    {{ block.super }}
+{% endblock %}

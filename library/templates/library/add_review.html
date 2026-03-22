@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Write a Review | DigiShelf{% endblock %}
+
+{% block content %}
+<div class="container py-5 d-flex justify-content-center align-items-center" style="min-height: 70vh;">
+    <div class="glass-card shadow-lg p-0 overflow-hidden" style="max-width: 500px; width: 100%;">
+        
+        <div class="p-4 text-center border-bottom border-secondary border-opacity-25">
+            <div class="mb-3">
+                <i class="fas fa-book-open fa-3x text-primary opacity-75"></i>
+            </div>
+            <h4 class="fw-bold mb-1">{{ book.title }}</h4>
+            <p class="text-muted m-0 small">by {{ book.author }}</p>
+        </div>
+
+        <div class="p-4">
+            <form method="POST">
+                {% csrf_token %}
+                
+                <div class="mb-4 text-center">
+                    <label class="form-label fw-bold small text-uppercase opacity-75">Rating (1 to 5 Stars)</label>
+                    <div class="mt-2">
+                        {{ form.rating }}
+                    </div>
+                </div>
+
+                <div class="mb-4 text-start">
+                    <label class="form-label fw-bold small text-uppercase opacity-75">Your Review</label>
+                    <div class="mt-2">
+                        {{ form.comment }}
+                    </div>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-aesthetic rounded-pill shadow-sm py-2">
+                        <i class="fas fa-paper-plane me-2"></i>Submit Review
+                    </button>
+                    
+                    <a href="{% url 'profile' %}" class="btn btn-outline-secondary rounded-pill py-2 mt-2" style="border-width: 2px;">
+                        Skip & Go to Profile
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var inputs = document.querySelectorAll('form input, form textarea, form select');
+        inputs.forEach(i => {
+            if(!i.classList.contains('form-control') && !i.classList.contains('form-select')) {
+                if(i.tagName === 'SELECT') {
+                    i.classList.add('form-select');
+                } else {
+                    i.classList.add('form-control');
+                }
+            }
+        });
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Digital Resource Hub | DigiShelf{% endblock %}
+
+{% block extra_head %}
+<style>
+    .glass-card { background: var(--glass-bg); border-radius: 15px; border: 1px solid var(--glass-border); box-shadow: 0 8px 20px rgba(0,0,0,0.05); transition: transform 0.3s; }
+    .glass-card:hover { transform: translateY(-5px); box-shadow: var(--card-hover-shadow); }
+    .resource-img { height: 200px; object-fit: cover; border-top-left-radius: 15px; border-top-right-radius: 15px; background: rgba(0,0,0,0.05); display: flex; align-items: center; justify-content: center; }
+    .category-badge { position: absolute; top: 10px; right: 10px; font-size: 0.75rem; font-weight: bold; }
+    .filter-btn { border-radius: 20px; padding: 6px 18px; margin: 5px; text-decoration: none; border: 2px solid #764ba2; color: #764ba2; transition: 0.3s; font-weight: 600; }
+    .filter-btn.active, .filter-btn:hover { background: #764ba2; color: white; transform: translateY(-2px); box-shadow: 0 4px 10px rgba(118, 75, 162, 0.3); }
+
+    [data-bs-theme="dark"] .filter-btn { border-color: #a78bfa; color: #a78bfa; }
+    [data-bs-theme="dark"] .filter-btn.active, [data-bs-theme="dark"] .filter-btn:hover { background: #a78bfa; color: #1e293b; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container py-5 animate-slide-up">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold"><i class="fas fa-cloud-download-alt me-2 text-primary-gradient"></i>Digital Hub</h2>
+        <a href="{% url 'home' %}" class="btn btn-outline-secondary rounded-pill shadow-sm"><i class="fas fa-home me-2"></i>Back to Home</a>
+    </div>
+    
+    <div class="row justify-content-center mb-4">
+        <div class="col-12 col-md-8 col-lg-6">
+            <form class="d-flex shadow-sm rounded-pill overflow-hidden bg-white border align-items-center p-1" method="GET" action="{% url 'digital_hub' %}">
+                {% if current_category %}
+                    <input type="hidden" name="category" value="{{ current_category }}">
+                {% endif %}
+                
+                <input class="form-control border-0 px-3 px-md-4 py-2 py-md-3 bg-transparent text-dark" type="search" name="q" value="{{ search_query|default:'' }}" placeholder="Search for materials, e-books..." aria-label="Search" style="box-shadow: none; outline: none;">
+                <button class="btn px-3 px-md-4 py-2 py-md-3 fw-bold text-white btn-aesthetic rounded-pill m-0" type="submit">
+                    <i class="fas fa-search"></i> <span class="d-none d-sm-inline ms-1">Search</span>
+                </button>
+            </form>
+        </div>
+    </div>
+    
+    <div class="d-flex flex-wrap mb-4 justify-content-center">
+        <a href="{% url 'digital_hub' %}" class="filter-btn {% if not current_category %}active{% endif %}">All Resources</a>
+        {% for cat_value, cat_label in categories %}
+            <a href="{% url 'digital_hub' %}?category={{ cat_value }}" class="filter-btn {% if current_category == cat_value %}active{% endif %}">
+                {{ cat_label }}
+            </a>
+        {% endfor %}
+    </div>
+
+    <div class="row">
+        {% for resource in resources %}
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
+            <div class="card glass-card h-100 position-relative">
+                <span class="badge bg-warning text-dark category-badge shadow-sm">{{ resource.get_category_display }}</span>
+                
+                <div class="resource-img">
+                    {% if resource.cover_image %}
+                        <img src="{{ resource.cover_image.url }}" class="w-100 h-100" style="object-fit: cover; border-radius: 15px 15px 0 0;" alt="Cover">
+                    {% else %}
+                        <i class="fas fa-file-pdf fa-4x text-danger opacity-50"></i>
+                    {% endif %}
+                </div>
+
+                <div class="card-body d-flex flex-column p-4">
+                    <h6 class="fw-bold text-truncate mb-2" title="{{ resource.title }}">{{ resource.title }}</h6>
+                    <p class="text-muted small mb-3" style="font-size: 0.8rem; height: 40px; overflow: hidden;">
+                        {{ resource.description|default:"No description available." }}
+                    </p>
+                    
+                    <div class="mt-auto">
+                        <a href="{{ resource.file.url }}" target="_blank" class="btn btn-outline-primary btn-sm w-100 mb-2 rounded-pill fw-bold">
+                            <i class="fas fa-book-reader me-1"></i> Read Online
+                        </a>
+                        <a href="{{ resource.file.url }}" download class="btn btn-success btn-sm w-100 rounded-pill fw-bold shadow-sm" style="background: #6bcb77; border: none;">
+                            <i class="fas fa-download me-1"></i> Download PDF
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% empty %}
+        <div class="col-12 text-center py-5 text-muted glass-card">
+            <i class="fas fa-folder-open fa-3x mb-3 opacity-25"></i>
+            <p class="fw-bold mt-2 fs-5">No resources available right now.</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

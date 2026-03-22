@@ -1,0 +1,2268 @@
+1️⃣ Computer Science
+
+1. Data Structures Simplified, Sujatha, Computer Science, McGraw Hill, ₹650, 2015
+
+
+2. Modern Algorithms Guide, Robert C. Martin, Computer Science, MIT Press, ₹850, 2012
+
+
+3. Programming Logic Mastery, Kalki Krishnamurthy, Computer Science, Oxford University Press, ₹720, 2018
+
+
+4. Clean Architecture Concepts, Robert C. Martin, Computer Science, Pearson, ₹950, 2017
+
+
+5. Software Design Principles, Jeyamohan, Computer Science, Cambridge University Press, ₹780, 2019
+
+
+6. Compiler Construction Basics, Balakumaran, Computer Science, McGraw Hill, ₹820, 2014
+
+
+7. Operating Systems Explained, George Orwell, Computer Science, MIT Press, ₹900, 2016
+
+
+8. Database System Concepts, Sujatha, Computer Science, Oxford University Press, ₹860, 2020
+
+
+9. Programming Patterns Handbook, James Clear, Computer Science, HarperCollins, ₹730, 2021
+
+
+10. Computer Networks Fundamentals, Sandilyan, Computer Science, Cambridge University Press, ₹810, 2013
+
+
+
+
+---
+
+2️⃣ Information Technology
+
+1. IT Infrastructure Guide, Abdul Rahman, Information Technology, McGraw Hill, ₹780, 2016
+
+
+2. Cloud Computing Essentials, Eric Ries, Information Technology, MIT Press, ₹920, 2019
+
+
+3. Cybersecurity Foundations, Sujatha, Information Technology, Oxford University Press, ₹870, 2020
+
+
+4. Networking Essentials, Robert C. Martin, Information Technology, Cambridge University Press, ₹760, 2018
+
+
+5. Web Technologies Handbook, Lakshmi, Information Technology, Pearson, ₹690, 2017
+
+
+6. IT Service Management, Morgan Housel, Information Technology, HarperCollins, ₹720, 2021
+
+
+7. Digital Systems Overview, Kalki Krishnamurthy, Information Technology, McGraw Hill, ₹800, 2015
+
+
+8. Enterprise Solutions Design, Daniel Kahneman, Information Technology, MIT Press, ₹950, 2014
+
+
+9. IT Governance Principles, Vannadasan, Information Technology, Oxford University Press, ₹730, 2022
+
+
+10. Network Security Mastery, Jeyamohan, Information Technology, Cambridge University Press, ₹880, 2023
+
+
+
+
+---
+
+3️⃣ General Knowledge
+
+1. World Facts Compendium, Sujatha, General Knowledge, Rupa Publications, ₹550, 2018
+
+
+2. Global Affairs Guide, Yuval Noah Harari, General Knowledge, HarperCollins, ₹620, 2019
+
+
+3. India Today Handbook, Kalki Krishnamurthy, General Knowledge, Penguin Random House, ₹580, 2020
+
+
+4. Knowledge Vault, Abdul Rahman, General Knowledge, Oxford University Press, ₹540, 2017
+
+
+5. Modern World Insights, George Orwell, General Knowledge, Cambridge University Press, ₹600, 2021
+
+
+6. Current Affairs Digest, Lakshmi, General Knowledge, McGraw Hill, ₹500, 2022
+
+
+7. Competitive GK Mastery, Jeyamohan, General Knowledge, Rupa Publications, ₹570, 2016
+
+
+8. Encyclopedia of Facts, Stephen Hawking, General Knowledge, HarperCollins, ₹750, 2015
+
+
+9. Universal Knowledge Book, Sandilyan, General Knowledge, Penguin Random House, ₹590, 2023
+
+
+10. Quick Facts Reference, Morgan Housel, General Knowledge, Oxford University Press, ₹610, 2014
+
+
+
+
+---
+
+4️⃣ Encyclopedias
+
+1. Encyclopedia of Science, Sujatha, Encyclopedias, Oxford University Press, ₹1200, 2016
+
+
+2. Global Encyclopedia Vol 1, Stephen Hawking, Encyclopedias, Cambridge University Press, ₹1350, 2018
+
+
+3. Knowledge Encyclopedia, Kalki Krishnamurthy, Encyclopedias, Penguin Random House, ₹1100, 2017
+
+
+4. Britannica Companion, George Orwell, Encyclopedias, HarperCollins, ₹1400, 2015
+
+
+5. Modern World Encyclopedia, Abdul Rahman, Encyclopedias, Oxford University Press, ₹1250, 2020
+
+
+6. Digital Encyclopedia Guide, Eric Ries, Encyclopedias, MIT Press, ₹1300, 2019
+
+
+7. Academic Encyclopedia, Lakshmi, Encyclopedias, Cambridge University Press, ₹1150, 2021
+
+
+8. Universal Reference Volume, Sandilyan, Encyclopedias, McGraw Hill, ₹1180, 2014
+
+
+9. Science & Tech Encyclopedia, Robert C. Martin, Encyclopedias, MIT Press, ₹1500, 2022
+
+
+10. Knowledge Treasury, Vannadasan, Encyclopedias, HarperCollins, ₹1280, 2023
+
+
+
+
+---
+
+5️⃣ Philosophy
+
+1. Ethics and Life, Jeyamohan, Philosophy, Oxford University Press, ₹620, 2019
+
+
+2. Logic Simplified, Daniel Kahneman, Philosophy, Cambridge University Press, ₹700, 2018
+
+
+3. Human Thought Patterns, Sujatha, Philosophy, HarperCollins, ₹650, 2020
+
+
+4. Ancient Wisdom Modern Mind, Kalki Krishnamurthy, Philosophy, Penguin Random House, ₹680, 2017
+
+
+5. Moral Reasoning Guide, Abdul Rahman, Philosophy, Oxford University Press, ₹590, 2016
+
+
+6. Philosophy of Science, Stephen Hawking, Philosophy, MIT Press, ₹750, 2021
+
+
+7. Rational Thinking Manual, Robert C. Martin, Philosophy, McGraw Hill, ₹720, 2015
+
+
+8. Metaphysics Basics, Lakshmi, Philosophy, Cambridge University Press, ₹630, 2022
+
+
+9. Eastern Philosophy Insights, Sandilyan, Philosophy, HarperCollins, ₹640, 2014
+
+
+10. Critical Thinking Framework, George Orwell, Philosophy, Penguin Random House, ₹710, 2023                                                       
+6️⃣ Psychology
+
+1. Human Behavior Insights, Sujatha, Psychology, Oxford University Press, ₹720, 2019
+
+
+2. Cognitive Thinking Patterns, Daniel Kahneman, Psychology, Cambridge University Press, ₹850, 2017
+
+
+3. Mind and Emotions Guide, Lakshmi, Psychology, HarperCollins, ₹640, 2020
+
+
+4. Behavioral Science Basics, Robert C. Martin, Psychology, MIT Press, ₹910, 2016
+
+
+5. The Power of Mindset, Jeyamohan, Psychology, Penguin Random House, ₹690, 2021
+
+
+6. Emotional Intelligence Explained, Morgan Housel, Psychology, HarperCollins, ₹750, 2018
+
+
+7. Psychology of Success, Kalki Krishnamurthy, Psychology, McGraw Hill, ₹680, 2022
+
+
+8. Understanding Personality, Abdul Rahman, Psychology, Oxford University Press, ₹620, 2015
+
+
+9. Mental Wellness Handbook, Vannadasan, Psychology, Cambridge University Press, ₹700, 2023
+
+
+10. Social Behavior Analysis, George Orwell, Psychology, Penguin Random House, ₹770, 2014
+
+
+
+
+---
+
+7️⃣ Religion
+
+1. Foundations of Faith, Sandilyan, Religion, Oxford University Press, ₹600, 2018
+
+
+2. Comparative Religion Studies, Stephen Hawking, Religion, Cambridge University Press, ₹820, 2016
+
+
+3. Sacred Text Interpretations, Sujatha, Religion, HarperCollins, ₹710, 2021
+
+
+4. World Religions Overview, Yuval Noah Harari, Religion, Penguin Random House, ₹850, 2017
+
+
+5. Spiritual Traditions Guide, Lakshmi, Religion, Oxford University Press, ₹640, 2020
+
+
+6. Ancient Belief Systems, Abdul Rahman, Religion, McGraw Hill, ₹690, 2015
+
+
+7. Religion and Society, Jeyamohan, Religion, Cambridge University Press, ₹720, 2022
+
+
+8. Theology Simplified, Robert C. Martin, Religion, MIT Press, ₹900, 2014
+
+
+9. Faith and Philosophy, Kalki Krishnamurthy, Religion, HarperCollins, ₹650, 2019
+
+
+10. Religious Ethics Handbook, Vannadasan, Religion, Penguin Random House, ₹680, 2023
+
+
+
+
+---
+
+8️⃣ Spirituality
+
+1. Inner Peace Guide, Sujatha, Spirituality, HarperCollins, ₹620, 2020
+
+
+2. Meditation and Mindfulness, Daniel Kahneman, Spirituality, Penguin Random House, ₹750, 2018
+
+
+3. Path to Self Discovery, Lakshmi, Spirituality, Oxford University Press, ₹690, 2019
+
+
+4. Spiritual Growth Framework, Abdul Rahman, Spirituality, Cambridge University Press, ₹710, 2021
+
+
+5. Conscious Living Handbook, Morgan Housel, Spirituality, HarperCollins, ₹640, 2017
+
+
+6. Wisdom for Modern Life, Kalki Krishnamurthy, Spirituality, McGraw Hill, ₹670, 2022
+
+
+7. The Soul and Science, Stephen Hawking, Spirituality, MIT Press, ₹880, 2016
+
+
+8. Inner Strength Manual, Jeyamohan, Spirituality, Penguin Random House, ₹730, 2015
+
+
+9. Enlightenment Concepts, Sandilyan, Spirituality, Oxford University Press, ₹600, 2023
+
+
+10. Universal Spiritual Principles, George Orwell, Spirituality, Cambridge University Press, ₹720, 2014
+
+
+
+
+---
+
+9️⃣ Social Sciences
+
+1. Society and Culture Studies, Sujatha, Social Sciences, Oxford University Press, ₹780, 2019
+
+
+2. Human Society Explained, Yuval Noah Harari, Social Sciences, HarperCollins, ₹920, 2017
+
+
+3. Social Theory Basics, Kalki Krishnamurthy, Social Sciences, Cambridge University Press, ₹800, 2021
+
+
+4. Community Development Guide, Abdul Rahman, Social Sciences, McGraw Hill, ₹750, 2018
+
+
+5. Modern Social Structures, Jeyamohan, Social Sciences, Penguin Random House, ₹690, 2022
+
+
+6. Cultural Anthropology Overview, Lakshmi, Social Sciences, Oxford University Press, ₹720, 2016
+
+
+7. Social Policy Framework, Robert C. Martin, Social Sciences, MIT Press, ₹910, 2015
+
+
+8. Global Society Handbook, Morgan Housel, Social Sciences, HarperCollins, ₹840, 2023
+
+
+9. Social Research Methods, Vannadasan, Social Sciences, Cambridge University Press, ₹760, 2014
+
+
+10. Sociology and Society, George Orwell, Social Sciences, Penguin Random House, ₹790, 2020
+
+
+
+
+---
+
+🔟 Sociology
+
+1. Foundations of Sociology, Sujatha, Sociology, Oxford University Press, ₹700, 2018
+
+
+2. Sociology in Modern World, Yuval Noah Harari, Sociology, HarperCollins, ₹880, 2016
+
+
+3. Social Change Studies, Kalki Krishnamurthy, Sociology, Cambridge University Press, ₹750, 2021
+
+
+4. Urban Sociology Guide, Abdul Rahman, Sociology, McGraw Hill, ₹690, 2019
+
+
+5. Rural Society Analysis, Lakshmi, Sociology, Oxford University Press, ₹720, 2020
+
+
+6. Sociology Research Manual, Robert C. Martin, Sociology, MIT Press, ₹940, 2015
+
+
+7. Family and Society, Jeyamohan, Sociology, Penguin Random House, ₹670, 2022
+
+
+8. Sociology of Education, Sandilyan, Sociology, Cambridge University Press, ₹730, 2014
+
+
+9. Social Institutions Explained, Vannadasan, Sociology, HarperCollins, ₹760, 2023
+
+
+10. Contemporary Sociology Concepts, George Orwell, Sociology, Penguin Random House, ₹810, 2017                                       11️⃣ Economics
+
+1. Principles of Modern Economics, Sujatha, Economics, Oxford University Press, ₹820, 2019
+
+
+2. Global Economic Systems, Yuval Noah Harari, Economics, HarperCollins, ₹950, 2017
+
+
+3. Microeconomics Simplified, Kalki Krishnamurthy, Economics, Cambridge University Press, ₹780, 2021
+
+
+4. Macroeconomic Policies Guide, Abdul Rahman, Economics, McGraw Hill, ₹860, 2018
+
+
+5. Behavioral Economics Explained, Daniel Kahneman, Economics, Penguin Random House, ₹990, 2020
+
+
+6. Indian Economic Development, Lakshmi, Economics, Oxford University Press, ₹740, 2016
+
+
+7. International Trade Concepts, Robert C. Martin, Economics, MIT Press, ₹920, 2015
+
+
+8. Financial Markets Overview, Morgan Housel, Economics, HarperCollins, ₹880, 2023
+
+
+9. Economic Growth Framework, Jeyamohan, Economics, Cambridge University Press, ₹770, 2014
+
+
+10. Public Finance Essentials, Sandilyan, Economics, Penguin Random House, ₹810, 2022
+
+
+
+
+---
+
+12️⃣ Political Science
+
+1. Foundations of Political Theory, Sujatha, Political Science, Oxford University Press, ₹780, 2018
+
+
+2. Comparative Politics Guide, Yuval Noah Harari, Political Science, HarperCollins, ₹920, 2017
+
+
+3. Indian Political System, Kalki Krishnamurthy, Political Science, Cambridge University Press, ₹750, 2021
+
+
+4. Public Administration Basics, Abdul Rahman, Political Science, McGraw Hill, ₹830, 2019
+
+
+5. Democracy and Governance, George Orwell, Political Science, Penguin Random House, ₹890, 2016
+
+
+6. International Relations Handbook, Lakshmi, Political Science, Oxford University Press, ₹760, 2020
+
+
+7. Political Ideologies Explained, Robert C. Martin, Political Science, MIT Press, ₹940, 2015
+
+
+8. Constitutional Studies Guide, Jeyamohan, Political Science, Cambridge University Press, ₹810, 2022
+
+
+9. Policy Making Framework, Vannadasan, Political Science, HarperCollins, ₹720, 2023
+
+
+10. Global Governance Concepts, Daniel Kahneman, Political Science, Penguin Random House, ₹870, 2014
+
+
+
+
+---
+
+13️⃣ Law
+
+1. Introduction to Legal Studies, Sujatha, Law, Oxford University Press, ₹860, 2019
+
+
+2. Constitutional Law Explained, Abdul Rahman, Law, Cambridge University Press, ₹940, 2018
+
+
+3. Criminal Law Handbook, Kalki Krishnamurthy, Law, McGraw Hill, ₹880, 2021
+
+
+4. Civil Procedure Basics, Lakshmi, Law, Oxford University Press, ₹790, 2017
+
+
+5. Corporate Law Essentials, Robert C. Martin, Law, MIT Press, ₹990, 2020
+
+
+6. Human Rights Framework, Jeyamohan, Law, Penguin Random House, ₹820, 2016
+
+
+7. International Law Guide, Morgan Housel, Law, HarperCollins, ₹910, 2015
+
+
+8. Legal Research Methods, Sandilyan, Law, Cambridge University Press, ₹770, 2022
+
+
+9. Environmental Law Overview, Vannadasan, Law, Oxford University Press, ₹840, 2023
+
+
+10. Judicial System Analysis, George Orwell, Law, Penguin Random House, ₹900, 2014
+
+
+
+
+---
+
+14️⃣ Education
+
+1. Foundations of Education, Sujatha, Education, Oxford University Press, ₹720, 2018
+
+
+2. Educational Psychology Basics, Daniel Kahneman, Education, Cambridge University Press, ₹850, 2017
+
+
+3. Modern Teaching Methods, Lakshmi, Education, HarperCollins, ₹690, 2021
+
+
+4. Curriculum Development Guide, Abdul Rahman, Education, McGraw Hill, ₹760, 2019
+
+
+5. Classroom Management Skills, Jeyamohan, Education, Penguin Random House, ₹680, 2020
+
+
+6. Education Policy Studies, Yuval Noah Harari, Education, Oxford University Press, ₹910, 2016
+
+
+7. Assessment and Evaluation, Robert C. Martin, Education, MIT Press, ₹940, 2015
+
+
+8. Inclusive Education Handbook, Kalki Krishnamurthy, Education, Cambridge University Press, ₹750, 2022
+
+
+9. Higher Education Systems, Sandilyan, Education, HarperCollins, ₹800, 2023
+
+
+10. Digital Learning Framework, Morgan Housel, Education, Penguin Random House, ₹870, 2014
+
+
+
+
+---
+
+15️⃣ Language
+
+1. English Language Foundations, Sujatha, Language, Oxford University Press, ₹620, 2019
+
+
+2. Linguistic Structures Explained, Noam Chomsky, Language, Cambridge University Press, ₹980, 2017
+
+
+3. Language and Society, Lakshmi, Language, HarperCollins, ₹690, 2021
+
+
+4. Applied Linguistics Guide, Abdul Rahman, Language, McGraw Hill, ₹750, 2018
+
+
+5. Language Learning Strategies, Kalki Krishnamurthy, Language, Penguin Random House, ₹670, 2020
+
+
+6. Modern Grammar Concepts, Robert C. Martin, Language, MIT Press, ₹920, 2016
+
+
+7. Phonetics and Phonology Basics, Jeyamohan, Language, Cambridge University Press, ₹740, 2015
+
+
+8. Multilingual Communication, Sandilyan, Language, Oxford University Press, ₹680, 2023
+
+
+9. Language Teaching Methods, Vannadasan, Language, HarperCollins, ₹710, 2022
+
+
+10. Global Languages Overview, George Orwell, Language, Penguin Random House, ₹770, 2014                                    --
+
+16️⃣ Linguistics
+
+1. Introduction to Linguistics, Sujatha, Linguistics, Oxford University Press, ₹780, 2019
+
+
+2. Syntax and Structure, Noam Chomsky, Linguistics, Cambridge University Press, ₹1100, 2017
+
+
+3. Semantics Explained, Lakshmi, Linguistics, HarperCollins, ₹720, 2021
+
+
+4. Pragmatics and Usage, Abdul Rahman, Linguistics, McGraw Hill, ₹760, 2018
+
+
+5. Language Evolution Studies, Kalki Krishnamurthy, Linguistics, Penguin Random House, ₹690, 2020
+
+
+6. Phonology in Practice, Jeyamohan, Linguistics, Cambridge University Press, ₹750, 2016
+
+
+7. Sociolinguistics Overview, Robert C. Martin, Linguistics, MIT Press, ₹940, 2015
+
+
+8. Morphology Handbook, Sandilyan, Linguistics, Oxford University Press, ₹700, 2023
+
+
+9. Linguistic Research Methods, Vannadasan, Linguistics, HarperCollins, ₹730, 2022
+
+
+10. Global Language Patterns, George Orwell, Linguistics, Penguin Random House, ₹810, 2014
+
+
+
+
+---
+
+17️⃣ Grammar
+
+1. Advanced English Grammar, Sujatha, Grammar, Oxford University Press, ₹650, 2019
+
+
+2. Practical Grammar Guide, Lakshmi, Grammar, Cambridge University Press, ₹720, 2021
+
+
+3. Grammar in Context, Abdul Rahman, Grammar, McGraw Hill, ₹680, 2018
+
+
+4. Modern Grammar Usage, Kalki Krishnamurthy, Grammar, Penguin Random House, ₹690, 2020
+
+
+5. Grammar Rules Simplified, Jeyamohan, Grammar, HarperCollins, ₹620, 2016
+
+
+6. Academic Grammar Framework, Robert C. Martin, Grammar, MIT Press, ₹950, 2015
+
+
+7. Grammar and Writing Skills, Sandilyan, Grammar, Oxford University Press, ₹710, 2023
+
+
+8. Spoken English Grammar, Vannadasan, Grammar, Cambridge University Press, ₹740, 2022
+
+
+9. Grammar for Competitive Exams, Morgan Housel, Grammar, Penguin Random House, ₹770, 2017
+
+
+10. Structural Grammar Concepts, George Orwell, Grammar, HarperCollins, ₹690, 2014
+
+
+
+
+---
+
+18️⃣ Literature
+
+1. World Literature Overview, Sujatha, Literature, Oxford University Press, ₹820, 2019
+
+
+2. Classical Literature Studies, Kalki Krishnamurthy, Literature, Cambridge University Press, ₹780, 2021
+
+
+3. Modern Literary Movements, Lakshmi, Literature, HarperCollins, ₹760, 2020
+
+
+4. Literary Criticism Basics, Abdul Rahman, Literature, McGraw Hill, ₹840, 2018
+
+
+5. Comparative Literature Guide, Jeyamohan, Literature, Penguin Random House, ₹720, 2016
+
+
+6. Poetry and Prose Studies, Sandilyan, Literature, Oxford University Press, ₹690, 2023
+
+
+7. Literary Theory Explained, Robert C. Martin, Literature, MIT Press, ₹960, 2015
+
+
+8. Indian Literature Insights, Vannadasan, Literature, Cambridge University Press, ₹750, 2022
+
+
+9. Narrative Techniques Handbook, Morgan Housel, Literature, HarperCollins, ₹800, 2017
+
+
+10. Drama and Fiction Analysis, George Orwell, Literature, Penguin Random House, ₹830, 2014
+
+
+
+
+---
+
+19️⃣ Fiction
+
+1. Shadows of Destiny, Sujatha, Fiction, HarperCollins, ₹620, 2020
+
+
+2. The Silent Horizon, Kalki Krishnamurthy, Fiction, Penguin Random House, ₹690, 2019
+
+
+3. Beyond the Blue Sky, Lakshmi, Fiction, Oxford University Press, ₹640, 2021
+
+
+4. The Forgotten Path, Abdul Rahman, Fiction, McGraw Hill, ₹670, 2018
+
+
+5. Echoes of Time, Jeyamohan, Fiction, Cambridge University Press, ₹710, 2016
+
+
+6. Crimson Nights, Sandilyan, Fiction, HarperCollins, ₹680, 2023
+
+
+7. The Lost Kingdom, J.K. Rowling, Fiction, Penguin Random House, ₹950, 2015
+
+
+8. Winter of Hope, Vannadasan, Fiction, Oxford University Press, ₹660, 2022
+
+
+9. City of Secrets, George Orwell, Fiction, HarperCollins, ₹740, 2017
+
+
+10. Whispers in the Dark, Paulo Coelho, Fiction, Penguin Random House, ₹820, 2014
+
+
+
+
+---
+
+20️⃣ Non-Fiction
+
+1. The Modern World Explained, Sujatha, Non-Fiction, Oxford University Press, ₹780, 2019
+
+
+2. Understanding Reality, Yuval Noah Harari, Non-Fiction, HarperCollins, ₹920, 2017
+
+
+3. Life Lessons for Growth, Lakshmi, Non-Fiction, Penguin Random House, ₹690, 2021
+
+
+4. The Science of Success, Abdul Rahman, Non-Fiction, McGraw Hill, ₹760, 2018
+
+
+5. Leadership and Vision, Jeyamohan, Non-Fiction, Cambridge University Press, ₹820, 2020
+
+
+6. Society and Change, Sandilyan, Non-Fiction, Oxford University Press, ₹710, 2023
+
+
+7. Thinking Clearly, Daniel Kahneman, Non-Fiction, MIT Press, ₹990, 2015
+
+
+8. The Age of Innovation, Robert C. Martin, Non-Fiction, HarperCollins, ₹870, 2022
+
+
+9. Cultural Reflections, Vannadasan, Non-Fiction, Penguin Random House, ₹730, 2016
+
+
+10. The Knowledge Era, Morgan Housel, Non-Fiction, Oxford University Press, ₹840, 2014
+
+21️⃣ Science Fiction
+
+1. Future Beyond Earth, Sujatha, Science Fiction, HarperCollins, ₹720, 2020
+
+
+2. The Quantum Horizon, Stephen Hawking, Science Fiction, Cambridge University Press, ₹980, 2018
+
+
+3. Mars Colony Rising, Kalki Krishnamurthy, Science Fiction, Penguin Random House, ₹750, 2021
+
+
+4. Time Travel Protocol, Abdul Rahman, Science Fiction, McGraw Hill, ₹790, 2017
+
+
+5. Galactic Civilizations, Jeyamohan, Science Fiction, Oxford University Press, ₹830, 2019
+
+
+6. The AI Rebellion, Robert C. Martin, Science Fiction, MIT Press, ₹950, 2016
+
+
+7. Cosmic Shadows, Lakshmi, Science Fiction, HarperCollins, ₹700, 2023
+
+
+8. Beyond the Milky Way, Sandilyan, Science Fiction, Cambridge University Press, ₹780, 2015
+
+
+9. Parallel Universe Theory, Daniel Kahneman, Science Fiction, Penguin Random House, ₹890, 2022
+
+
+10. The Last Planet, George Orwell, Science Fiction, HarperCollins, ₹820, 2014
+
+
+
+
+---
+
+22️⃣ Fantasy
+
+1. Kingdom of Eternal Flame, Sujatha, Fantasy, HarperCollins, ₹690, 2021
+
+
+2. The Dragon’s Legacy, J.K. Rowling, Fantasy, Penguin Random House, ₹990, 2017
+
+
+3. Realm of Mystic Shadows, Kalki Krishnamurthy, Fantasy, Oxford University Press, ₹720, 2020
+
+
+4. Chronicles of the Hidden Realm, Abdul Rahman, Fantasy, McGraw Hill, ₹760, 2018
+
+
+5. Sword of Destiny, Jeyamohan, Fantasy, Cambridge University Press, ₹810, 2019
+
+
+6. The Enchanted Forest, Lakshmi, Fantasy, HarperCollins, ₹680, 2022
+
+
+7. Wizards of the East, Sandilyan, Fantasy, Penguin Random House, ₹740, 2016
+
+
+8. The Dark Sorcerer, George Orwell, Fantasy, Oxford University Press, ₹790, 2015
+
+
+9. The Crystal Kingdom, Vannadasan, Fantasy, Cambridge University Press, ₹730, 2023
+
+
+10. Legends of the Lost Empire, Paulo Coelho, Fantasy, HarperCollins, ₹870, 2014
+
+
+
+
+---
+
+23️⃣ Mystery & Thriller
+
+1. The Silent Witness, Sujatha, Mystery & Thriller, HarperCollins, ₹720, 2020
+
+
+2. Shadows of the Night, Kalki Krishnamurthy, Mystery & Thriller, Penguin Random House, ₹690, 2019
+
+
+3. The Vanishing Code, Abdul Rahman, Mystery & Thriller, McGraw Hill, ₹760, 2018
+
+
+4. Deadly Secrets, Lakshmi, Mystery & Thriller, Oxford University Press, ₹710, 2021
+
+
+5. The Final Clue, Jeyamohan, Mystery & Thriller, Cambridge University Press, ₹780, 2017
+
+
+6. City Under Suspicion, Sandilyan, Mystery & Thriller, HarperCollins, ₹740, 2023
+
+
+7. The Hidden Conspiracy, George Orwell, Mystery & Thriller, Penguin Random House, ₹820, 2016
+
+
+8. Midnight Investigation, Robert C. Martin, Mystery & Thriller, MIT Press, ₹950, 2015
+
+
+9. Crime Beyond Borders, Vannadasan, Mystery & Thriller, Oxford University Press, ₹770, 2022
+
+
+10. The Last Detective, Paulo Coelho, Mystery & Thriller, HarperCollins, ₹880, 2014
+
+
+
+
+---
+
+24️⃣ Romance
+
+1. Love Beyond Time, Sujatha, Romance, HarperCollins, ₹650, 2020
+
+
+2. The Promise of Forever, Lakshmi, Romance, Penguin Random House, ₹690, 2021
+
+
+3. When Hearts Meet, Kalki Krishnamurthy, Romance, Oxford University Press, ₹670, 2019
+
+
+4. A Journey of Two Souls, Abdul Rahman, Romance, McGraw Hill, ₹720, 2018
+
+
+5. Eternal Embrace, Jeyamohan, Romance, Cambridge University Press, ₹740, 2017
+
+
+6. Whispers of the Heart, Sandilyan, Romance, HarperCollins, ₹680, 2023
+
+
+7. A Love Rewritten, Vannadasan, Romance, Penguin Random House, ₹710, 2016
+
+
+8. The Summer of Us, Paulo Coelho, Romance, HarperCollins, ₹820, 2015
+
+
+9. Letters of Love, George Orwell, Romance, Oxford University Press, ₹760, 2022
+
+
+10. Destiny’s Bond, Morgan Housel, Romance, Cambridge University Press, ₹800, 2014
+
+
+
+
+---
+
+25️⃣ Biography
+
+1. The Life of a Visionary, Sujatha, Biography, HarperCollins, ₹780, 2019
+
+
+2. Journey of a Leader, Yuval Noah Harari, Biography, Penguin Random House, ₹920, 2017
+
+
+3. Against All Odds, Kalki Krishnamurthy, Biography, Oxford University Press, ₹750, 2021
+
+
+4. From Dreams to Reality, Abdul Rahman, Biography, McGraw Hill, ₹820, 2018
+
+
+5. The Road to Success, Jeyamohan, Biography, Cambridge University Press, ₹790, 2020
+
+
+6. A Story of Courage, Lakshmi, Biography, HarperCollins, ₹730, 2016
+
+
+7. Breaking Barriers, Sandilyan, Biography, Oxford University Press, ₹770, 2023
+
+
+8. Rise of a Thinker, Daniel Kahneman, Biography, MIT Press, ₹990, 2015
+
+
+9. A Life in Words, Vannadasan, Biography, Penguin Random House, ₹720, 2022
+
+
+10. The Making of a Legend, George Orwell, Biography, HarperCollins, ₹840, 2014                                  
+26️⃣ Autobiography
+
+1. My Journey Through Time, Sujatha, Autobiography, HarperCollins, ₹780, 2019
+
+
+2. A Life of Determination, Kalki Krishnamurthy, Autobiography, Penguin Random House, ₹820, 2021
+
+
+3. Beyond My Limits, Abdul Rahman, Autobiography, McGraw Hill, ₹760, 2018
+
+
+4. Reflections of My Life, Lakshmi, Autobiography, Oxford University Press, ₹720, 2020
+
+
+5. Steps Toward Success, Jeyamohan, Autobiography, Cambridge University Press, ₹790, 2017
+
+
+6. My Story Unfolded, Sandilyan, Autobiography, HarperCollins, ₹740, 2023
+
+
+7. Lessons I Learned, Vannadasan, Autobiography, Penguin Random House, ₹710, 2016
+
+
+8. In My Own Words, Daniel Kahneman, Autobiography, MIT Press, ₹990, 2015
+
+
+9. Journey of Resilience, Morgan Housel, Autobiography, HarperCollins, ₹860, 2022
+
+
+10. Through Trials and Triumph, George Orwell, Autobiography, Oxford University Press, ₹840, 2014
+
+
+
+
+---
+
+27️⃣ History
+
+1. Ancient Civilizations Explained, Sujatha, History, Oxford University Press, ₹820, 2019
+
+
+2. Medieval World Chronicles, Kalki Krishnamurthy, History, Cambridge University Press, ₹780, 2021
+
+
+3. Modern India in Focus, Abdul Rahman, History, McGraw Hill, ₹760, 2018
+
+
+4. World War Analysis, Lakshmi, History, HarperCollins, ₹790, 2020
+
+
+5. The Rise of Empires, Jeyamohan, History, Penguin Random House, ₹830, 2017
+
+
+6. Cultural Heritage of India, Sandilyan, History, Oxford University Press, ₹740, 2023
+
+
+7. Colonial Era Studies, Vannadasan, History, Cambridge University Press, ₹720, 2016
+
+
+8. Global History Overview, Yuval Noah Harari, History, HarperCollins, ₹920, 2015
+
+
+9. History of Science, Robert C. Martin, History, MIT Press, ₹950, 2022
+
+
+10. Historical Perspectives, George Orwell, History, Penguin Random House, ₹810, 2014
+
+
+
+
+---
+
+28️⃣ Geography
+
+1. Physical Geography Basics, Sujatha, Geography, Oxford University Press, ₹720, 2019
+
+
+2. Human Geography Studies, Kalki Krishnamurthy, Geography, Cambridge University Press, ₹780, 2021
+
+
+3. World Atlas Companion, Abdul Rahman, Geography, McGraw Hill, ₹860, 2018
+
+
+4. Environmental Geography Guide, Lakshmi, Geography, HarperCollins, ₹740, 2020
+
+
+5. Geopolitical Landscapes, Jeyamohan, Geography, Penguin Random House, ₹810, 2017
+
+
+6. Earth Systems Explained, Sandilyan, Geography, Oxford University Press, ₹730, 2023
+
+
+7. Climate Change and Regions, Vannadasan, Geography, Cambridge University Press, ₹750, 2016
+
+
+8. Mapping the Modern World, Stephen Hawking, Geography, MIT Press, ₹980, 2015
+
+
+9. Indian Geography Insights, Morgan Housel, Geography, HarperCollins, ₹820, 2022
+
+
+10. Geographic Research Methods, George Orwell, Geography, Penguin Random House, ₹790, 2014
+
+
+
+
+---
+
+29️⃣ Pure Science
+
+1. Foundations of Pure Science, Sujatha, Pure Science, Oxford University Press, ₹840, 2019
+
+
+2. Scientific Principles Explained, Stephen Hawking, Pure Science, Cambridge University Press, ₹1100, 2017
+
+
+3. Research in Modern Science, Kalki Krishnamurthy, Pure Science, McGraw Hill, ₹890, 2021
+
+
+4. The Scientific Method, Abdul Rahman, Pure Science, HarperCollins, ₹760, 2018
+
+
+5. Discoveries That Changed the World, Lakshmi, Pure Science, Oxford University Press, ₹800, 2020
+
+
+6. Experiments and Innovations, Jeyamohan, Pure Science, Penguin Random House, ₹830, 2016
+
+
+7. The Logic of Science, Robert C. Martin, Pure Science, MIT Press, ₹960, 2015
+
+
+8. Pure Science Handbook, Sandilyan, Pure Science, Cambridge University Press, ₹780, 2023
+
+
+9. Evolution of Scientific Thought, Vannadasan, Pure Science, HarperCollins, ₹720, 2022
+
+
+10. Modern Research Framework, George Orwell, Pure Science, Penguin Random House, ₹850, 2014
+
+
+
+
+---
+
+30️⃣ Physics
+
+1. Fundamentals of Physics, Sujatha, Physics, Oxford University Press, ₹920, 2019
+
+
+2. Quantum Mechanics Simplified, Stephen Hawking, Physics, Cambridge University Press, ₹1150, 2017
+
+
+3. Classical Mechanics Guide, Kalki Krishnamurthy, Physics, McGraw Hill, ₹880, 2021
+
+
+4. Thermodynamics Concepts, Abdul Rahman, Physics, HarperCollins, ₹790, 2018
+
+
+5. Electromagnetism Explained, Lakshmi, Physics, Oxford University Press, ₹820, 2020
+
+
+6. Modern Physics Theories, Jeyamohan, Physics, Penguin Random House, ₹870, 2016
+
+
+7. Astrophysics Overview, Sandilyan, Physics, Cambridge University Press, ₹950, 2023
+
+
+8. Particle Physics Insights, Robert C. Martin, Physics, MIT Press, ₹990, 2015
+
+
+9. Nuclear Physics Basics, Vannadasan, Physics, HarperCollins, ₹860, 2022
+
+
+10. Relativity and Space-Time, George Orwell, Physics, Penguin Random House, ₹910, 2014                        31️⃣ Chemistry
+
+1. Fundamentals of Chemistry, Sujatha, Chemistry, Oxford University Press, ₹880, 2019
+
+
+2. Organic Chemistry Simplified, Abdul Rahman, Chemistry, McGraw Hill, ₹920, 2018
+
+
+3. Inorganic Chemistry Concepts, Kalki Krishnamurthy, Chemistry, Cambridge University Press, ₹860, 2021
+
+
+4. Physical Chemistry Guide, Lakshmi, Chemistry, HarperCollins, ₹790, 2020
+
+
+5. Analytical Chemistry Methods, Jeyamohan, Chemistry, Penguin Random House, ₹830, 2017
+
+
+6. Modern Chemical Reactions, Sandilyan, Chemistry, Oxford University Press, ₹870, 2023
+
+
+7. Industrial Chemistry Handbook, Robert C. Martin, Chemistry, MIT Press, ₹990, 2015
+
+
+8. Environmental Chemistry Basics, Vannadasan, Chemistry, Cambridge University Press, ₹810, 2022
+
+
+9. Biochemistry Foundations, Morgan Housel, Chemistry, HarperCollins, ₹850, 2016
+
+
+10. Chemical Bonding Explained, George Orwell, Chemistry, Penguin Random House, ₹900, 2014
+
+
+
+
+---
+
+32️⃣ Mathematics
+
+1. Foundations of Mathematics, Sujatha, Mathematics, Oxford University Press, ₹820, 2019
+
+
+2. Algebra and Beyond, Kalki Krishnamurthy, Mathematics, Cambridge University Press, ₹780, 2021
+
+
+3. Calculus Simplified, Abdul Rahman, Mathematics, McGraw Hill, ₹860, 2018
+
+
+4. Geometry and Trigonometry, Lakshmi, Mathematics, HarperCollins, ₹740, 2020
+
+
+5. Statistics for Beginners, Jeyamohan, Mathematics, Penguin Random House, ₹810, 2017
+
+
+6. Discrete Mathematics Guide, Sandilyan, Mathematics, Oxford University Press, ₹830, 2023
+
+
+7. Mathematical Logic Explained, Robert C. Martin, Mathematics, MIT Press, ₹960, 2015
+
+
+8. Number Theory Concepts, Vannadasan, Mathematics, Cambridge University Press, ₹770, 2022
+
+
+9. Applied Mathematics Framework, Morgan Housel, Mathematics, HarperCollins, ₹850, 2016
+
+
+10. Advanced Problem Solving, George Orwell, Mathematics, Penguin Random House, ₹890, 2014
+
+
+
+
+---
+
+33️⃣ Biology
+
+1. Introduction to Biology, Sujatha, Biology, Oxford University Press, ₹840, 2019
+
+
+2. Human Anatomy Basics, Lakshmi, Biology, Cambridge University Press, ₹880, 2021
+
+
+3. Genetics and Evolution, Abdul Rahman, Biology, McGraw Hill, ₹920, 2018
+
+
+4. Microbiology Essentials, Kalki Krishnamurthy, Biology, HarperCollins, ₹860, 2020
+
+
+5. Plant Biology Guide, Jeyamohan, Biology, Penguin Random House, ₹790, 2017
+
+
+6. Marine Biology Overview, Sandilyan, Biology, Oxford University Press, ₹870, 2023
+
+
+7. Biotechnology Concepts, Robert C. Martin, Biology, MIT Press, ₹990, 2015
+
+
+8. Ecology and Ecosystems, Vannadasan, Biology, Cambridge University Press, ₹820, 2022
+
+
+9. Molecular Biology Insights, Morgan Housel, Biology, HarperCollins, ₹900, 2016
+
+
+10. Evolutionary Biology Studies, George Orwell, Biology, Penguin Random House, ₹910, 2014
+
+
+
+
+---
+
+34️⃣ Environmental Science
+
+1. Environmental Studies Guide, Sujatha, Environmental Science, Oxford University Press, ₹780, 2019
+
+
+2. Climate Change Explained, Stephen Hawking, Environmental Science, Cambridge University Press, ₹1050, 2017
+
+
+3. Sustainable Development Basics, Abdul Rahman, Environmental Science, McGraw Hill, ₹860, 2018
+
+
+4. Biodiversity and Conservation, Lakshmi, Environmental Science, HarperCollins, ₹820, 2021
+
+
+5. Environmental Policy Handbook, Jeyamohan, Environmental Science, Penguin Random House, ₹790, 2020
+
+
+6. Green Energy Solutions, Sandilyan, Environmental Science, Oxford University Press, ₹870, 2023
+
+
+7. Pollution Control Methods, Vannadasan, Environmental Science, Cambridge University Press, ₹760, 2016
+
+
+8. Natural Resource Management, Morgan Housel, Environmental Science, HarperCollins, ₹840, 2022
+
+
+9. Ecology and Sustainability, Kalki Krishnamurthy, Environmental Science, McGraw Hill, ₹880, 2015
+
+
+10. Earth and Environment, George Orwell, Environmental Science, Penguin Random House, ₹900, 2014
+
+
+
+
+---
+
+35️⃣ Applied Science
+
+1. Applied Science Foundations, Sujatha, Applied Science, Oxford University Press, ₹850, 2019
+
+
+2. Practical Scientific Applications, Abdul Rahman, Applied Science, McGraw Hill, ₹920, 2018
+
+
+3. Science in Daily Life, Lakshmi, Applied Science, HarperCollins, ₹780, 2020
+
+
+4. Technological Innovations Guide, Kalki Krishnamurthy, Applied Science, Cambridge University Press, ₹890, 2021
+
+
+5. Engineering Science Basics, Jeyamohan, Applied Science, Penguin Random House, ₹830, 2017
+
+
+6. Applied Research Methods, Sandilyan, Applied Science, Oxford University Press, ₹870, 2023
+
+
+7. Scientific Tools and Techniques, Robert C. Martin, Applied Science, MIT Press, ₹990, 2015
+
+
+8. Modern Industrial Applications, Vannadasan, Applied Science, Cambridge University Press, ₹820, 2022
+
+
+9. Science and Technology Today, Morgan Housel, Applied Science, HarperCollins, ₹860, 2016
+
+
+10. Experimental Science Concepts, George Orwell, Applied Science, Penguin Random House, ₹910, 2014                
+36️⃣ Engineering
+
+1. Fundamentals of Engineering, Sujatha, Engineering, Oxford University Press, ₹920, 2019
+
+
+2. Mechanical Systems Design, Abdul Rahman, Engineering, McGraw Hill, ₹980, 2018
+
+
+3. Electrical Engineering Basics, Kalki Krishnamurthy, Engineering, Cambridge University Press, ₹940, 2021
+
+
+4. Civil Engineering Concepts, Lakshmi, Engineering, HarperCollins, ₹880, 2020
+
+
+5. Electronics and Circuits, Jeyamohan, Engineering, Penguin Random House, ₹910, 2017
+
+
+6. Structural Analysis Guide, Sandilyan, Engineering, Oxford University Press, ₹970, 2023
+
+
+7. Engineering Mathematics Applications, Robert C. Martin, Engineering, MIT Press, ₹1100, 2015
+
+
+8. Industrial Engineering Overview, Vannadasan, Engineering, Cambridge University Press, ₹890, 2022
+
+
+9. Robotics Fundamentals, Morgan Housel, Engineering, HarperCollins, ₹1020, 2016
+
+
+10. Modern Engineering Practices, George Orwell, Engineering, Penguin Random House, ₹950, 2014
+
+
+
+
+---
+
+37️⃣ Medicine
+
+1. Introduction to Medical Science, Sujatha, Medicine, Oxford University Press, ₹980, 2019
+
+
+2. Human Physiology Explained, Lakshmi, Medicine, Cambridge University Press, ₹1050, 2021
+
+
+3. Clinical Practice Handbook, Abdul Rahman, Medicine, McGraw Hill, ₹1100, 2018
+
+
+4. Anatomy and Pathology Guide, Kalki Krishnamurthy, Medicine, HarperCollins, ₹990, 2020
+
+
+5. Pharmacology Basics, Jeyamohan, Medicine, Penguin Random House, ₹970, 2017
+
+
+6. Modern Diagnostic Techniques, Sandilyan, Medicine, Oxford University Press, ₹1030, 2023
+
+
+7. Medical Research Methods, Robert C. Martin, Medicine, MIT Press, ₹1200, 2015
+
+
+8. Preventive Medicine Concepts, Vannadasan, Medicine, Cambridge University Press, ₹950, 2022
+
+
+9. Public Health Framework, Morgan Housel, Medicine, HarperCollins, ₹1020, 2016
+
+
+10. Advances in Surgery, George Orwell, Medicine, Penguin Random House, ₹1150, 2014
+
+
+
+
+---
+
+38️⃣ Agriculture
+
+1. Fundamentals of Agriculture, Sujatha, Agriculture, Oxford University Press, ₹780, 2019
+
+
+2. Modern Farming Techniques, Abdul Rahman, Agriculture, McGraw Hill, ₹820, 2018
+
+
+3. Soil Science Explained, Kalki Krishnamurthy, Agriculture, Cambridge University Press, ₹860, 2021
+
+
+4. Crop Production Guide, Lakshmi, Agriculture, HarperCollins, ₹790, 2020
+
+
+5. Agricultural Economics Basics, Jeyamohan, Agriculture, Penguin Random House, ₹740, 2017
+
+
+6. Organic Farming Handbook, Sandilyan, Agriculture, Oxford University Press, ₹830, 2023
+
+
+7. Irrigation Systems Overview, Vannadasan, Agriculture, Cambridge University Press, ₹760, 2016
+
+
+8. Sustainable Agriculture Methods, Morgan Housel, Agriculture, HarperCollins, ₹880, 2022
+
+
+9. Plant Protection Concepts, Robert C. Martin, Agriculture, MIT Press, ₹990, 2015
+
+
+10. Agribusiness Management, George Orwell, Agriculture, Penguin Random House, ₹910, 2014
+
+
+
+
+---
+
+39️⃣ Technology
+
+1. Technology in Modern World, Sujatha, Technology, Oxford University Press, ₹860, 2019
+
+
+2. Emerging Technologies Guide, Eric Ries, Technology, HarperCollins, ₹920, 2021
+
+
+3. Digital Transformation Handbook, Abdul Rahman, Technology, McGraw Hill, ₹890, 2018
+
+
+4. Internet of Things Basics, Kalki Krishnamurthy, Technology, Cambridge University Press, ₹940, 2020
+
+
+5. Mobile App Development Concepts, Lakshmi, Technology, Penguin Random House, ₹820, 2017
+
+
+6. Blockchain Fundamentals, Robert C. Martin, Technology, MIT Press, ₹1100, 2016
+
+
+7. Cyber Technologies Explained, Jeyamohan, Technology, Oxford University Press, ₹870, 2023
+
+
+8. Cloud Systems Architecture, Sandilyan, Technology, HarperCollins, ₹910, 2022
+
+
+9. Innovation and Society, Morgan Housel, Technology, Cambridge University Press, ₹880, 2015
+
+
+10. Technology Management Guide, George Orwell, Technology, Penguin Random House, ₹950, 2014
+
+
+
+
+---
+
+40️⃣ Artificial Intelligence
+
+1. Introduction to Artificial Intelligence, Sujatha, Artificial Intelligence, Oxford University Press, ₹950, 2019
+
+
+2. Machine Learning Foundations, Robert C. Martin, Artificial Intelligence, MIT Press, ₹1200, 2016
+
+
+3. Neural Networks Simplified, Kalki Krishnamurthy, Artificial Intelligence, Cambridge University Press, ₹980, 2021
+
+
+4. Deep Learning Concepts, Abdul Rahman, Artificial Intelligence, McGraw Hill, ₹1020, 2018
+
+
+5. AI Ethics and Society, Lakshmi, Artificial Intelligence, HarperCollins, ₹890, 2020
+
+
+6. Data-Driven Intelligence, Jeyamohan, Artificial Intelligence, Penguin Random House, ₹940, 2017
+
+
+7. Computer Vision Guide, Sandilyan, Artificial Intelligence, Oxford University Press, ₹970, 2023
+
+
+8. Natural Language Processing Basics, Vannadasan, Artificial Intelligence, Cambridge University Press, ₹910, 2022
+
+
+9. AI in Industry Applications, Morgan Housel, Artificial Intelligence, HarperCollins, ₹990, 2015
+
+
+10. Robotics and AI Systems, George Orwell, Artificial Intelligence, Penguin Random House, ₹1050, 2014                    
+41️⃣ Data Science
+
+1. Introduction to Data Science, Sujatha, Data Science, Oxford University Press, ₹980, 2019
+
+
+2. Data Analytics Foundations, Robert C. Martin, Data Science, MIT Press, ₹1150, 2016
+
+
+3. Statistical Modeling Guide, Kalki Krishnamurthy, Data Science, Cambridge University Press, ₹920, 2021
+
+
+4. Big Data Technologies, Abdul Rahman, Data Science, McGraw Hill, ₹990, 2018
+
+
+5. Data Visualization Concepts, Lakshmi, Data Science, HarperCollins, ₹870, 2020
+
+
+6. Predictive Analytics Handbook, Jeyamohan, Data Science, Penguin Random House, ₹940, 2017
+
+
+7. Data Mining Essentials, Sandilyan, Data Science, Oxford University Press, ₹960, 2023
+
+
+8. Applied Statistics for Data, Vannadasan, Data Science, Cambridge University Press, ₹890, 2022
+
+
+9. Machine Learning for Data, Morgan Housel, Data Science, HarperCollins, ₹910, 2015
+
+
+10. Python for Data Science, George Orwell, Data Science, Penguin Random House, ₹1020, 2014
+
+
+
+
+---
+
+42️⃣ Business
+
+1. Foundations of Business, Sujatha, Business, Oxford University Press, ₹860, 2019
+
+
+2. Startup Strategies Guide, Eric Ries, Business, HarperCollins, ₹950, 2021
+
+
+3. Business Environment Analysis, Kalki Krishnamurthy, Business, Cambridge University Press, ₹880, 2020
+
+
+4. Entrepreneurship Basics, Abdul Rahman, Business, McGraw Hill, ₹820, 2018
+
+
+5. Global Business Practices, Lakshmi, Business, Penguin Random House, ₹900, 2017
+
+
+6. Business Ethics Handbook, Jeyamohan, Business, Oxford University Press, ₹840, 2023
+
+
+7. Innovation and Enterprise, Sandilyan, Business, HarperCollins, ₹870, 2022
+
+
+8. Business Law Essentials, Robert C. Martin, Business, MIT Press, ₹1100, 2016
+
+
+9. Strategic Business Models, Morgan Housel, Business, Cambridge University Press, ₹920, 2015
+
+
+10. International Business Guide, George Orwell, Business, Penguin Random House, ₹960, 2014
+
+
+
+
+---
+
+43️⃣ Management
+
+1. Principles of Management, Sujatha, Management, Oxford University Press, ₹820, 2019
+
+
+2. Organizational Behavior Guide, Daniel Kahneman, Management, Cambridge University Press, ₹980, 2017
+
+
+3. Human Resource Management, Lakshmi, Management, HarperCollins, ₹860, 2021
+
+
+4. Operations Management Basics, Abdul Rahman, Management, McGraw Hill, ₹890, 2018
+
+
+5. Strategic Management Framework, Kalki Krishnamurthy, Management, Penguin Random House, ₹910, 2020
+
+
+6. Leadership Skills Handbook, Jeyamohan, Management, Oxford University Press, ₹870, 2023
+
+
+7. Project Management Concepts, Sandilyan, Management, Cambridge University Press, ₹840, 2016
+
+
+8. Supply Chain Management, Morgan Housel, Management, HarperCollins, ₹880, 2022
+
+
+9. Change Management Strategies, Robert C. Martin, Management, MIT Press, ₹1050, 2015
+
+
+10. Corporate Governance Guide, George Orwell, Management, Penguin Random House, ₹930, 2014
+
+
+
+
+---
+
+44️⃣ Finance
+
+1. Fundamentals of Finance, Sujatha, Finance, Oxford University Press, ₹880, 2019
+
+
+2. Corporate Finance Explained, Morgan Housel, Finance, HarperCollins, ₹950, 2020
+
+
+3. Investment Management Guide, Kalki Krishnamurthy, Finance, Cambridge University Press, ₹920, 2021
+
+
+4. Financial Planning Basics, Abdul Rahman, Finance, McGraw Hill, ₹870, 2018
+
+
+5. Stock Market Essentials, Lakshmi, Finance, Penguin Random House, ₹890, 2017
+
+
+6. Risk Management Concepts, Jeyamohan, Finance, Oxford University Press, ₹840, 2023
+
+
+7. International Finance Overview, Sandilyan, Finance, Cambridge University Press, ₹900, 2016
+
+
+8. Banking Systems Handbook, Robert C. Martin, Finance, MIT Press, ₹1100, 2015
+
+
+9. Personal Finance Mastery, Vannadasan, Finance, HarperCollins, ₹860, 2022
+
+
+10. Financial Analysis Techniques, George Orwell, Finance, Penguin Random House, ₹940, 2014
+
+
+
+
+---
+
+45️⃣ Accounting
+
+1. Principles of Accounting, Sujatha, Accounting, Oxford University Press, ₹820, 2019
+
+
+2. Financial Accounting Basics, Lakshmi, Accounting, Cambridge University Press, ₹880, 2021
+
+
+3. Cost Accounting Guide, Abdul Rahman, Accounting, McGraw Hill, ₹890, 2018
+
+
+4. Management Accounting Concepts, Kalki Krishnamurthy, Accounting, Penguin Random House, ₹910, 2020
+
+
+5. Auditing and Assurance, Jeyamohan, Accounting, Oxford University Press, ₹870, 2017
+
+
+6. Taxation Fundamentals, Sandilyan, Accounting, HarperCollins, ₹850, 2023
+
+
+7. Corporate Accounting Handbook, Robert C. Martin, Accounting, MIT Press, ₹1050, 2015
+
+
+8. Accounting Standards Explained, Vannadasan, Accounting, Cambridge University Press, ₹890, 2022
+
+
+9. Financial Reporting Framework, Morgan Housel, Accounting, HarperCollins, ₹920, 2016
+
+
+10. Advanced Accounting Practices, George Orwell, Accounting, Penguin Random House, ₹960, 2014                       
+46️⃣ Marketing
+
+1. Fundamentals of Marketing, Sujatha, Marketing, Oxford University Press, ₹820, 2019
+
+
+2. Digital Marketing Strategies, Eric Ries, Marketing, HarperCollins, ₹950, 2021
+
+
+3. Consumer Behavior Guide, Lakshmi, Marketing, Cambridge University Press, ₹880, 2020
+
+
+4. Brand Management Basics, Abdul Rahman, Marketing, McGraw Hill, ₹890, 2018
+
+
+5. Marketing Research Methods, Kalki Krishnamurthy, Marketing, Penguin Random House, ₹910, 2017
+
+
+6. Social Media Marketing Handbook, Jeyamohan, Marketing, Oxford University Press, ₹870, 2023
+
+
+7. Global Marketing Practices, Sandilyan, Marketing, HarperCollins, ₹840, 2022
+
+
+8. Advertising and Promotion Concepts, Robert C. Martin, Marketing, MIT Press, ₹1050, 2015
+
+
+9. Strategic Marketing Framework, Vannadasan, Marketing, Cambridge University Press, ₹890, 2016
+
+
+10. Retail Marketing Essentials, George Orwell, Marketing, Penguin Random House, ₹930, 2014
+
+
+
+
+---
+
+47️⃣ Self-Help
+
+1. The Path to Personal Growth, Sujatha, Self-Help, HarperCollins, ₹690, 2020
+
+
+2. Habits for Success, James Clear, Self-Help, Penguin Random House, ₹950, 2018
+
+
+3. Mindset Transformation Guide, Lakshmi, Self-Help, Oxford University Press, ₹720, 2021
+
+
+4. Building Confidence Daily, Abdul Rahman, Self-Help, McGraw Hill, ₹760, 2019
+
+
+5. The Art of Positive Living, Kalki Krishnamurthy, Self-Help, Cambridge University Press, ₹740, 2017
+
+
+6. Emotional Balance Handbook, Jeyamohan, Self-Help, HarperCollins, ₹710, 2023
+
+
+7. Overcoming Challenges, Sandilyan, Self-Help, Penguin Random House, ₹780, 2016
+
+
+8. The Power of Focus, Morgan Housel, Self-Help, Oxford University Press, ₹820, 2022
+
+
+9. Self-Discipline Framework, Vannadasan, Self-Help, Cambridge University Press, ₹750, 2015
+
+
+10. Designing Your Best Life, George Orwell, Self-Help, HarperCollins, ₹860, 2014
+
+
+
+
+---
+
+48️⃣ Motivation
+
+1. Ignite Your Inner Drive, Sujatha, Motivation, HarperCollins, ₹690, 2020
+
+
+2. The Success Blueprint, Abdul Rahman, Motivation, McGraw Hill, ₹750, 2018
+
+
+3. Achieve Beyond Limits, Lakshmi, Motivation, Oxford University Press, ₹720, 2021
+
+
+4. Dream Big Act Bold, Kalki Krishnamurthy, Motivation, Cambridge University Press, ₹740, 2019
+
+
+5. Rise and Lead, Jeyamohan, Motivation, Penguin Random House, ₹770, 2017
+
+
+6. Unlock Your Potential, Sandilyan, Motivation, HarperCollins, ₹710, 2023
+
+
+7. The Winning Mindset, Morgan Housel, Motivation, Oxford University Press, ₹820, 2016
+
+
+8. Courage to Continue, Vannadasan, Motivation, Cambridge University Press, ₹750, 2022
+
+
+9. Motivation for Modern Life, Robert C. Martin, Motivation, MIT Press, ₹990, 2015
+
+
+10. The Road to Achievement, George Orwell, Motivation, Penguin Random House, ₹880, 2014
+
+
+
+
+---
+
+49️⃣ Health & Fitness
+
+1. Foundations of Healthy Living, Sujatha, Health & Fitness, Oxford University Press, ₹780, 2019
+
+
+2. Nutrition and Wellness Guide, Lakshmi, Health & Fitness, Cambridge University Press, ₹860, 2021
+
+
+3. Fitness Training Basics, Abdul Rahman, Health & Fitness, McGraw Hill, ₹820, 2018
+
+
+4. Yoga and Mind Balance, Kalki Krishnamurthy, Health & Fitness, HarperCollins, ₹790, 2020
+
+
+5. Strength and Conditioning Handbook, Jeyamohan, Health & Fitness, Penguin Random House, ₹840, 2017
+
+
+6. Holistic Health Concepts, Sandilyan, Health & Fitness, Oxford University Press, ₹810, 2023
+
+
+7. Mental Health Awareness, Morgan Housel, Health & Fitness, HarperCollins, ₹870, 2016
+
+
+8. Lifestyle Disease Prevention, Vannadasan, Health & Fitness, Cambridge University Press, ₹750, 2022
+
+
+9. Exercise Science Explained, Robert C. Martin, Health & Fitness, MIT Press, ₹1050, 2015
+
+
+10. Healthy Habits Framework, George Orwell, Health & Fitness, Penguin Random House, ₹900, 2014
+
+
+
+
+---
+
+50️⃣ Arts
+
+1. Introduction to Fine Arts, Sujatha, Arts, Oxford University Press, ₹760, 2019
+
+
+2. History of Art Movements, Kalki Krishnamurthy, Arts, Cambridge University Press, ₹820, 2021
+
+
+3. Creative Expression Guide, Lakshmi, Arts, HarperCollins, ₹740, 2020
+
+
+4. Modern Art Techniques, Abdul Rahman, Arts, McGraw Hill, ₹780, 2018
+
+
+5. Visual Design Basics, Jeyamohan, Arts, Penguin Random House, ₹810, 2017
+
+
+6. Indian Art Heritage, Sandilyan, Arts, Oxford University Press, ₹830, 2023
+
+
+7. Contemporary Art Studies, Vannadasan, Arts, Cambridge University Press, ₹750, 2016
+
+
+8. Art and Society, Morgan Housel, Arts, HarperCollins, ₹860, 2022
+
+
+9. Sculpture and Painting Handbook, Robert C. Martin, Arts, MIT Press, ₹990, 2015
+
+
+10. Aesthetics and Culture, George Orwell, Arts, Penguin Random House, ₹880, 2014                               
+51️⃣ Music
+
+1. Foundations of Music Theory, Sujatha, Music, Oxford University Press, ₹720, 2019
+
+
+2. History of Classical Music, Kalki Krishnamurthy, Music, Cambridge University Press, ₹780, 2021
+
+
+3. Modern Music Composition, Lakshmi, Music, HarperCollins, ₹740, 2020
+
+
+4. Indian Music Traditions, Abdul Rahman, Music, McGraw Hill, ₹760, 2018
+
+
+5. Rhythm and Harmony Guide, Jeyamohan, Music, Penguin Random House, ₹790, 2017
+
+
+6. Contemporary Music Studies, Sandilyan, Music, Oxford University Press, ₹820, 2023
+
+
+7. Music Production Basics, Robert C. Martin, Music, MIT Press, ₹990, 2015
+
+
+8. Vocal Training Handbook, Vannadasan, Music, Cambridge University Press, ₹750, 2022
+
+
+9. Instrumentation and Orchestration, Morgan Housel, Music, HarperCollins, ₹860, 2016
+
+
+10. Music and Culture, George Orwell, Music, Penguin Random House, ₹880, 2014
+
+
+
+
+---
+
+52️⃣ Photography
+
+1. Introduction to Photography, Sujatha, Photography, Oxford University Press, ₹780, 2019
+
+
+2. Digital Photography Guide, Abdul Rahman, Photography, McGraw Hill, ₹820, 2018
+
+
+3. Creative Photography Techniques, Lakshmi, Photography, HarperCollins, ₹760, 2020
+
+
+4. Landscape Photography Handbook, Kalki Krishnamurthy, Photography, Cambridge University Press, ₹840, 2021
+
+
+5. Portrait Photography Basics, Jeyamohan, Photography, Penguin Random House, ₹790, 2017
+
+
+6. Advanced Camera Skills, Sandilyan, Photography, Oxford University Press, ₹830, 2023
+
+
+7. Photo Editing Concepts, Robert C. Martin, Photography, MIT Press, ₹990, 2015
+
+
+8. Wildlife Photography Insights, Vannadasan, Photography, Cambridge University Press, ₹810, 2022
+
+
+9. Visual Storytelling Guide, Morgan Housel, Photography, HarperCollins, ₹870, 2016
+
+
+10. Documentary Photography Studies, George Orwell, Photography, Penguin Random House, ₹900, 2014
+
+
+
+
+---
+
+53️⃣ Sports
+
+1. Fundamentals of Sports Science, Sujatha, Sports, Oxford University Press, ₹780, 2019
+
+
+2. Cricket Strategy Guide, Kalki Krishnamurthy, Sports, Cambridge University Press, ₹820, 2021
+
+
+3. Football Tactics Handbook, Abdul Rahman, Sports, McGraw Hill, ₹790, 2018
+
+
+4. Fitness Training for Athletes, Lakshmi, Sports, HarperCollins, ₹760, 2020
+
+
+5. Sports Psychology Basics, Jeyamohan, Sports, Penguin Random House, ₹810, 2017
+
+
+6. Olympic History Overview, Sandilyan, Sports, Oxford University Press, ₹830, 2023
+
+
+7. Coaching and Leadership, Robert C. Martin, Sports, MIT Press, ₹990, 2015
+
+
+8. Sports Nutrition Concepts, Vannadasan, Sports, Cambridge University Press, ₹820, 2022
+
+
+9. Modern Sports Analytics, Morgan Housel, Sports, HarperCollins, ₹870, 2016
+
+
+10. Winning Mindset in Sports, George Orwell, Sports, Penguin Random House, ₹900, 2014
+
+
+
+
+---
+
+54️⃣ Travel
+
+1. Exploring Incredible India, Sujatha, Travel, Oxford University Press, ₹720, 2019
+
+
+2. World Travel Guide, Kalki Krishnamurthy, Travel, Cambridge University Press, ₹780, 2021
+
+
+3. Backpacking Essentials, Abdul Rahman, Travel, McGraw Hill, ₹760, 2018
+
+
+4. Cultural Travel Experiences, Lakshmi, Travel, HarperCollins, ₹740, 2020
+
+
+5. Adventure Travel Handbook, Jeyamohan, Travel, Penguin Random House, ₹790, 2017
+
+
+6. Heritage Destinations Guide, Sandilyan, Travel, Oxford University Press, ₹820, 2023
+
+
+7. Travel Photography Basics, Robert C. Martin, Travel, MIT Press, ₹990, 2015
+
+
+8. Eco-Tourism Concepts, Vannadasan, Travel, Cambridge University Press, ₹810, 2022
+
+
+9. Global Destinations Overview, Morgan Housel, Travel, HarperCollins, ₹870, 2016
+
+
+10. Modern Travel Planning, George Orwell, Travel, Penguin Random House, ₹880, 2014
+
+
+
+
+---
+
+55️⃣ Children’s Books
+
+1. Stories for Curious Minds, Sujatha, Children’s Books, HarperCollins, ₹480, 2020
+
+
+2. Adventures in Wonderland, Kalki Krishnamurthy, Children’s Books, Penguin Random House, ₹520, 2021
+
+
+3. The Brave Little Explorer, Lakshmi, Children’s Books, Oxford University Press, ₹450, 2019
+
+
+4. Learning with Fun, Abdul Rahman, Children’s Books, McGraw Hill, ₹490, 2018
+
+
+5. Magical Bedtime Tales, Jeyamohan, Children’s Books, Cambridge University Press, ₹510, 2017
+
+
+6. Stories of Indian Heroes, Sandilyan, Children’s Books, HarperCollins, ₹530, 2023
+
+
+7. Kids Science Experiments, Robert C. Martin, Children’s Books, MIT Press, ₹600, 2015
+
+
+8. Fun with Numbers, Vannadasan, Children’s Books, Oxford University Press, ₹470, 2022
+
+
+9. Moral Stories Collection, Morgan Housel, Children’s Books, Penguin Random House, ₹520, 2016
+
+
+10. The Happy Learning Series, George Orwell, Children’s Books, HarperCollins, ₹550, 2014                                
+56️⃣ Young Adult
+
+1. Rising Beyond Dreams, Sujatha, Young Adult, HarperCollins, ₹620, 2020
+
+
+2. The Edge of Tomorrow, Kalki Krishnamurthy, Young Adult, Penguin Random House, ₹690, 2021
+
+
+3. Finding My Path, Lakshmi, Young Adult, Oxford University Press, ₹640, 2019
+
+
+4. Between School and Life, Abdul Rahman, Young Adult, McGraw Hill, ₹660, 2018
+
+
+5. The Courage Within, Jeyamohan, Young Adult, Cambridge University Press, ₹710, 2017
+
+
+6. Beyond the Horizon, Sandilyan, Young Adult, HarperCollins, ₹680, 2023
+
+
+7. Teenage Revolution, Robert C. Martin, Young Adult, MIT Press, ₹950, 2015
+
+
+8. Growing Stronger Daily, Vannadasan, Young Adult, Oxford University Press, ₹670, 2022
+
+
+9. Youth in the Modern World, Morgan Housel, Young Adult, Penguin Random House, ₹720, 2016
+
+
+10. A New Beginning, George Orwell, Young Adult, HarperCollins, ₹760, 2014
+
+
+
+
+---
+
+57️⃣ Competitive Exam Books
+
+1. Competitive Exam Mastery, Sujatha, Competitive Exam Books, McGraw Hill, ₹880, 2019
+
+
+2. Quantitative Aptitude Guide, Lakshmi, Competitive Exam Books, Oxford University Press, ₹820, 2021
+
+
+3. Logical Reasoning Handbook, Abdul Rahman, Competitive Exam Books, Cambridge University Press, ₹860, 2018
+
+
+4. General Studies Complete Guide, Kalki Krishnamurthy, Competitive Exam Books, Penguin Random House, ₹900, 2020
+
+
+5. UPSC Preparation Framework, Jeyamohan, Competitive Exam Books, HarperCollins, ₹950, 2017
+
+
+6. Banking Exam Essentials, Sandilyan, Competitive Exam Books, McGraw Hill, ₹840, 2023
+
+
+7. SSC Exam Practice Manual, Robert C. Martin, Competitive Exam Books, MIT Press, ₹990, 2015
+
+
+8. TNPSC Study Guide, Vannadasan, Competitive Exam Books, Oxford University Press, ₹870, 2022
+
+
+9. Aptitude and Reasoning Combo, Morgan Housel, Competitive Exam Books, Cambridge University Press, ₹890, 2016
+
+
+10. Competitive Success Blueprint, George Orwell, Competitive Exam Books, Penguin Random House, ₹910, 2014
+
+
+
+
+---
+
+58️⃣ Journals
+
+1. Journal of Modern Research Vol 1, Sujatha, Journals, Oxford University Press, ₹1100, 2019
+
+
+2. Science Research Journal Vol 2, Stephen Hawking, Journals, Cambridge University Press, ₹1350, 2018
+
+
+3. Technology Innovation Journal, Abdul Rahman, Journals, MIT Press, ₹1200, 2021
+
+
+4. Social Studies Journal, Kalki Krishnamurthy, Journals, HarperCollins, ₹980, 2020
+
+
+5. Medical Research Journal, Lakshmi, Journals, McGraw Hill, ₹1400, 2017
+
+
+6. Engineering Review Journal, Jeyamohan, Journals, Oxford University Press, ₹1250, 2023
+
+
+7. Data Science Journal, Robert C. Martin, Journals, MIT Press, ₹1500, 2015
+
+
+8. Business Insights Journal, Morgan Housel, Journals, Cambridge University Press, ₹1150, 2022
+
+
+9. Education Research Journal, Vannadasan, Journals, HarperCollins, ₹1000, 2016
+
+
+10. Global Studies Journal, George Orwell, Journals, Penguin Random House, ₹1050, 2014
+
+
+
+
+---
+
+59️⃣ Magazines
+
+1. Tech World Monthly, Sujatha, Magazines, HarperCollins, ₹350, 2023
+
+
+2. Business Today Review, Morgan Housel, Magazines, Penguin Random House, ₹380, 2022
+
+
+3. Science Explorer Magazine, Stephen Hawking, Magazines, Cambridge University Press, ₹420, 2021
+
+
+4. Education Times Monthly, Lakshmi, Magazines, Oxford University Press, ₹340, 2020
+
+
+5. Sports Arena Magazine, Abdul Rahman, Magazines, McGraw Hill, ₹360, 2019
+
+
+6. Travel and Culture Review, Sandilyan, Magazines, HarperCollins, ₹390, 2018
+
+
+7. Health & Wellness Digest, Jeyamohan, Magazines, Penguin Random House, ₹370, 2017
+
+
+8. Digital Future Magazine, Robert C. Martin, Magazines, MIT Press, ₹450, 2016
+
+
+9. Arts and Literature Review, Vannadasan, Magazines, Cambridge University Press, ₹400, 2015
+
+
+10. Global Affairs Magazine, George Orwell, Magazines, HarperCollins, ₹410, 2014
+
+
+
+
+---
+
+60️⃣ Reference Books
+
+1. Comprehensive Reference Guide, Sujatha, Reference Books, Oxford University Press, ₹980, 2019
+
+
+2. Academic Reference Manual, Kalki Krishnamurthy, Reference Books, Cambridge University Press, ₹1020, 2021
+
+
+3. Encyclopedia of Knowledge, Lakshmi, Reference Books, HarperCollins, ₹1100, 2020
+
+
+4. Research Companion Guide, Abdul Rahman, Reference Books, McGraw Hill, ₹950, 2018
+
+
+5. Professional Reference Handbook, Jeyamohan, Reference Books, Penguin Random House, ₹990, 2017
+
+
+6. Technical Reference Manual, Sandilyan, Reference Books, MIT Press, ₹1200, 2023
+
+
+7. Educational Reference Sourcebook, Vannadasan, Reference Books, Oxford University Press, ₹1050, 2022
+
+
+8. Global Reference Directory, Morgan Housel, Reference Books, Cambridge University Press, ₹1080, 2016
+
+
+9. Modern Academic Reference, Robert C. Martin, Reference Books, MIT Press, ₹1250, 2015
+
+
+10. Universal Knowledge Reference, George Orwell, Reference Books, HarperCollins, ₹1120, 2014
+
+
+
+
+---
+
+61️⃣ Research Papers
+
+1. Advances in Modern Science, Sujatha, Research Papers, Oxford University Press, ₹950, 2019
+
+
+2. Artificial Intelligence Research Study, Robert C. Martin, Research Papers, MIT Press, ₹1300, 2016
+
+
+3. Economic Development Analysis, Kalki Krishnamurthy, Research Papers, Cambridge University Press, ₹980, 2021
+
+
+4. Social Policy Research Review, Abdul Rahman, Research Papers, HarperCollins, ₹900, 2018
+
+
+5. Medical Innovations Study, Lakshmi, Research Papers, McGraw Hill, ₹1400, 2020
+
+
+6. Data Analytics Research Paper, Sandilyan, Research Papers, MIT Press, ₹1200, 2023
+
+
+7. Environmental Sustainability Study, Vannadasan, Research Papers, Oxford University Press, ₹990, 2022
+
+
+8. Business Strategy Analysis, Morgan Housel, Research Papers, Cambridge University Press, ₹1050, 2017
+
+
+9. Education Reform Research, Jeyamohan, Research Papers, HarperCollins, ₹960, 2015
+
+
+10. Global Governance Study, George Orwell, Research Papers, Penguin Random House, ₹1020, 2014
+
+
+
+
+---
+
+62️⃣ Digital Resources
+
+1. E-Learning Systems Guide, Sujatha, Digital Resources, Oxford University Press, ₹880, 2019
+
+
+2. Digital Libraries Handbook, Abdul Rahman, Digital Resources, McGraw Hill, ₹920, 2018
+
+
+3. Online Education Framework, Lakshmi, Digital Resources, Cambridge University Press, ₹860, 2021
+
+
+4. Cloud-Based Learning Systems, Kalki Krishnamurthy, Digital Resources, MIT Press, ₹1100, 2020
+
+
+5. Digital Content Creation Guide, Jeyamohan, Digital Resources, HarperCollins, ₹820, 2017
+
+
+6. Open Source Technologies Manual, Sandilyan, Digital Resources, Oxford University Press, ₹890, 2023
+
+
+7. Virtual Classroom Concepts, Vannadasan, Digital Resources, Cambridge University Press, ₹870, 2022
+
+
+8. Digital Innovation Handbook, Robert C. Martin, Digital Resources, MIT Press, ₹1200, 2016
+
+
+9. Technology for Education, Morgan Housel, Digital Resources, HarperCollins, ₹910, 2015
+
+
+10. Future of Digital Systems, George Orwell, Digital Resources, Penguin Random House, ₹950, 2014
+
+
+
+
+---
+
+63️⃣ Comics & Graphic Novels
+
+1. The Brave Hero Saga, Sujatha, Comics & Graphic Novels, HarperCollins, ₹520, 2020
+
+
+2. Legends of the Hidden City, Kalki Krishnamurthy, Comics & Graphic Novels, Penguin Random House, ₹580, 2021
+
+
+3. Super Tech Warriors, Abdul Rahman, Comics & Graphic Novels, McGraw Hill, ₹560, 2018
+
+
+4. Mystery of the Dark Realm, Lakshmi, Comics & Graphic Novels, Cambridge University Press, ₹540, 2019
+
+
+5. The Shadow Avenger, Jeyamohan, Comics & Graphic Novels, Oxford University Press, ₹600, 2017
+
+
+6. Galactic Defenders, Sandilyan, Comics & Graphic Novels, HarperCollins, ₹620, 2023
+
+
+7. Rise of the Titans, Robert C. Martin, Comics & Graphic Novels, MIT Press, ₹850, 2015
+
+
+8. The Lost Chronicles, Vannadasan, Comics & Graphic Novels, Penguin Random House, ₹590, 2022
+
+
+9. Power of the Elements, Morgan Housel, Comics & Graphic Novels, Cambridge University Press, ₹610, 2016
+
+
+10. Future Legends, George Orwell, Comics & Graphic Novels, HarperCollins, ₹630, 2014
+
+
+
+
+---
+
+64️⃣ Drama
+
+1. Stage of Destiny, Sujatha, Drama, Oxford University Press, ₹650, 2019
+
+
+2. The Final Act, Kalki Krishnamurthy, Drama, Cambridge University Press, ₹690, 2021
+
+
+3. Shadows on the Stage, Lakshmi, Drama, HarperCollins, ₹670, 2020
+
+
+4. Voices of the People, Abdul Rahman, Drama, McGraw Hill, ₹720, 2018
+
+
+5. The Turning Point, Jeyamohan, Drama, Penguin Random House, ₹710, 2017
+
+
+6. Echoes of the Past, Sandilyan, Drama, Oxford University Press, ₹680, 2023
+
+
+7. A Moment of Truth, Vannadasan, Drama, Cambridge University Press, ₹660, 2022
+
+
+8. The Last Performance, Robert C. Martin, Drama, MIT Press, ₹950, 2015
+
+
+9. Conflict and Resolution, Morgan Housel, Drama, HarperCollins, ₹720, 2016
+
+
+10. Curtain Call, George Orwell, Drama, Penguin Random House, ₹750, 2014
+
+
+
+
+---
+
+65️⃣ Poetry
+
+1. Echoes of the Heart, Sujatha, Poetry, HarperCollins, ₹520, 2020
+
+
+2. Verses of Time, Kalki Krishnamurthy, Poetry, Penguin Random House, ₹560, 2021
+
+
+3. Rhythms of Life, Lakshmi, Poetry, Oxford University Press, ₹540, 2019
+
+
+4. Silent Reflections, Abdul Rahman, Poetry, Cambridge University Press, ₹580, 2018
+
+
+5. Lines of Inspiration, Jeyamohan, Poetry, HarperCollins, ₹600, 2017
+
+
+6. Songs of the Soul, Sandilyan, Poetry, Oxford University Press, ₹620, 2023
+
+
+7. Modern Poetic Expressions, Vannadasan, Poetry, Cambridge University Press, ₹590, 2022
+
+
+8. The Poet’s Journey, Robert C. Martin, Poetry, MIT Press, ₹850, 2015
+
+
+9. Words that Heal, Morgan Housel, Poetry, Penguin Random House, ₹610, 2016
+
+
+10. Timeless Verses, George Orwell, Poetry, HarperCollins, ₹630, 2014
