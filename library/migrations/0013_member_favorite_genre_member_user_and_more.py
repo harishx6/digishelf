@@ -18,16 +18,6 @@ class Migration(migrations.Migration):
             name='favorite_genre',
             field=models.CharField(choices=[('fiction', 'Fiction'), ('sci-fi', 'Science Fiction'), ('mystery', 'Mystery & Thriller'), ('tech', 'Technology'), ('biography', 'Biography'), ('history', 'History'), ('romance', 'Romance'), ('comics', 'Comics')], default='fiction', max_length=50),
         ),
-        migrations.AddField(
-            model_name='member',
-            name='user',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),
-        ),
-        migrations.AlterField(
-            model_name='member',
-            name='user',
-            field=models.OneToOneField(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),
-        ),
         migrations.AlterField(
             model_name='book',
             name='category',
