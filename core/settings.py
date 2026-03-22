@@ -93,6 +93,12 @@ DATABASES = {
 # Override with external MySQL URL if provided in environment
 if 'DATABASE_URL' in os.environ:
     DATABASES['default'] = dj_database_url.parse(os.environ.get('DATABASE_URL'))
+    # TiDB Cloud and most managed MySQL require SSL
+    DATABASES['default']['OPTIONS'] = {
+        'ssl': {
+            'ca': os.environ.get('MYSQL_ATTR_SSL_CA', '/etc/ssl/certs/ca-certificates.crt'),
+        }
+    }
 
 
 # Password validation
